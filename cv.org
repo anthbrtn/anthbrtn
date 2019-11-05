@@ -3,13 +3,13 @@
 #+DATE: November 5 2019
 #+OPTIONS: num:nil toc:nil b
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
-* Anthony Burton
+* Contact
 
 - email: anthbrtn {at} gmail
 - git: [[https://github.com/anthbrtn][anthbrtn]]
 - twitter: [[https://twitter.com/anthbrtn][@anthbrtn]]
 
-** Current
+* Current
 **** Master of Arts, Communication & Culture
 Ryerson University & York University\\
 2020
@@ -19,12 +19,12 @@ Ryerson University
 **** Research Associate
 Open Intelligence Lab\\
 University of Amsterdam
-** Education
+* Education
 **** Honours Bachelor of Arts, Literature & Philosophy
 High Distinction\\
 Victoria College in the University of Toronto\\
 2017
-** Major Research Grants & Fellowships
+* Major Research Grants & Fellowships
 
 **** SSHRC Canadian Graduate Studies-Masters Scholarship
 Ryerson University\\
@@ -39,7 +39,7 @@ Ryerson University\\
 **** Ryerson Graduate Fellowship
 Ryerson University\\
 2018-2020
-** Past appointments
+* Past appointments
 **** Visiting Researcher
 Departement van Media & Cultuur\\
 University of Amsterdam\\
@@ -48,11 +48,11 @@ University of Amsterdam\\
 Digital Methods Initiative Summer School\\
 University of Amsterdam\\
 2019
-** Refereed publications
+* Refereed publications
 Burton, Anthony. 2019. "Being in/of the Network: The Chad Meme as Digital Subject". /To Be Decided: Journal of Interdisciplinary Theory/. 4 (2): 8.
 
 Burton, Anthony. 2016. "The Production of Society: Social Cohesion, Newspapers, and Social Media". /ImagiNATIONS/ 4 (1): 57--70.
-** Other publications
+* Other publications
 
 Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/this-is-where-it-starts]['This is where it starts']]. /Digital Citizenship Cultures
 Initiative/. October 23.
@@ -69,7 +69,7 @@ Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-t
 
 Burton, Anthony. 2018. [[https://quillandquire.com/review/getting-a-life-the-social-worlds-of-geek-culture/][Review: Getting a Life: The Social Worlds of Geek Culture]]. /Quill & Quire/, March.
 
-** Teaching
+* Teaching
 
 **** Teaching Assistant: Media Methods
 Sociology Department\\
@@ -87,7 +87,7 @@ University of Toronto\\
 Editorial Assistant Education Program\\
 The Strand, Victoria College's Student Newspaper\\
 2015-2016
-** Presentations
+* Presentations
 Burton, Anthony. 2019. "Channel surfing: YouTube, Rebel Media, and politicized
 platform networks." Conference presentation. /Pursuing Critical Media &
 Technology Studies./ Ryerson University, November 5.
@@ -101,12 +101,12 @@ Burton, Anthony. 2019. "Ideology and the Public Sphere: Telephony Rhetoric in th
 Burton, Anthony. 2019. "How to Study the Internet.” Guest lecture presented in SOC482 Media Methods, March 21.
 
 Burton, Anthony. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture presented in SOC482 Media Methods, March 7.
-** Academic Scholarships & Awards
+* Academic Scholarships & Awards
 Mitacs Globalink Research Award\\
 Project: "Streams of the deep web: Mapping YouTube's alt-right in the
 Canadian Election"\\
 2019
-** Projects
+* Projects
 **** Digital Citizenship Cultures Initiative
 Website accompanying the Digital Citizenship Cultures research group at
 Ryerson University's Infoscape Lab. Founded initiative with Drs. Greg
