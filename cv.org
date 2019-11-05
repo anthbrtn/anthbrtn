@@ -1,0 +1,123 @@
+#+TITLE: Anthony Burton's curriculum vitae
+#+AUTHOR: Anthony Burton
+#+DATE: November 5 2019
+#+OPTIONS: num:nil toc:nil b
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+* Anthony Burton
+
+- email: anthbrtn {at} gmail
+- git: [[https://github.com/anthbrtn][anthbrtn]]
+- twitter: [[https://twitter.com/anthbrtn][@anthbrtn]]
+
+** Current
+**** Master of Arts, Communication & Culture
+Ryerson University & York University\\
+2020
+**** MA Research Associate
+Infoscape Research Lab\\
+Ryerson University
+**** Research Associate
+Open Intelligence Lab\\
+University of Amsterdam
+** Education
+**** Honours Bachelor of Arts, Literature & Philosophy
+High Distinction\\
+Victoria College in the University of Toronto\\
+2017
+** Major Research Grants & Fellowships
+
+**** SSHRC Canadian Graduate Studies-Masters Scholarship
+Ryerson University\\
+2019-2020
+**** Digital Ecosystem Research Challenge Grant
+Project: "The deep web's impact on the Canadian Election"\\
+Co-PI with Drs. Greg Elmer and Marc Tuters\\
+2019
+**** Ontario Graduate Scholarship (declined)
+Ryerson University\\
+2019-2020
+**** Ryerson Graduate Fellowship
+Ryerson University\\
+2018-2020
+** Past appointments
+**** Visiting Researcher
+Departement van Media & Cultuur\\
+University of Amsterdam\\
+2019
+**** Project Lead
+Digital Methods Initiative Summer School\\
+University of Amsterdam\\
+2019
+** Refereed publications
+Burton, Anthony. 2019. "Being in/of the Network: The Chad Meme as Digital Subject". /To Be Decided: Journal of Interdisciplinary Theory/. 4 (2): 8.
+
+Burton, Anthony. 2016. "The Production of Society: Social Cohesion, Newspapers, and Social Media". /ImagiNATIONS/ 4 (1): 57--70.
+** Other publications
+
+Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/this-is-where-it-starts]['This is where it starts']]. /Digital Citizenship Cultures
+Initiative/. October 23.
+
+Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/new-right-new-mediasphere/]['Canada's New Right New Mediasphere']]. /Digital Citizenship Cultures Initiative/. September 30.
+
+Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/the-rebel-yell/]['The Rebel Yell'.]] /Digital Citizenship Cultures Initiative/. September 17 2019.
+
+With Sal Hagen, Jack Wilson and Marc Tuters. 2019. [[https://oilab.eu/infinitys-abyss-an-overview-of-8chan/.]['Infinity's Abyss: An Overview of 8chan']]. /OILab/, August 8.
+
+With Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
+
+Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x]['X. Why?']]. /The Outline/, June 13 2018.
+
+Burton, Anthony. 2018. [[https://quillandquire.com/review/getting-a-life-the-social-worlds-of-geek-culture/][Review: Getting a Life: The Social Worlds of Geek Culture]]. /Quill & Quire/, March.
+
+** Teaching
+
+**** Teaching Assistant: Media Methods
+Sociology Department\\
+Ryerson University\\
+2019
+**** Graduate Assistant
+Department of Politics & Public Administration\\
+Ryerson University\\
+2019
+**** Research Assistant
+Department of Political Science\\
+University of Toronto\\
+2017
+**** Founder & Program Lead
+Editorial Assistant Education Program\\
+The Strand, Victoria College's Student Newspaper\\
+2015-2016
+** Presentations
+Burton, Anthony. 2019. "Channel surfing: YouTube, Rebel Media, and politicized
+platform networks." Conference presentation. /Pursuing Critical Media &
+Technology Studies./ Ryerson University, November 5.
+
+Burton, Anthony. 2019. "Digital Cultures of Citizenship." Poster Session. /Rubix Research Festival/. Ryerson University, November 4.
+
+Burton, Anthony. 2019. "Digital Characters, Digital Community: The Chad Meme as Community Member in Online Incel Spaces". Conference presentation. /Beyond Life Itself Social & Political Thought Graduate Conference./ Acadia University, May 4.
+
+Burton, Anthony. 2019. "Ideology and the Public Sphere: Telephony Rhetoric in the Doug Ford Administration". Conference presentation. /Canada on the Edge? Robarts Centre Canadian Studies Conference./ York University, May 2.
+
+Burton, Anthony. 2019. "How to Study the Internet.” Guest lecture presented in SOC482 Media Methods, March 21.
+
+Burton, Anthony. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture presented in SOC482 Media Methods, March 7.
+** Academic Scholarships & Awards
+Mitacs Globalink Research Award\\
+Project: "Streams of the deep web: Mapping YouTube's alt-right in the
+Canadian Election"\\
+2019
+** Projects
+**** Digital Citizenship Cultures Initiative
+Website accompanying the Digital Citizenship Cultures research group at
+Ryerson University's Infoscape Lab. Founded initiative with Drs. Greg
+Elmer and Ganaele Langlois. Website
+[[https://dcc.infoscapelab.ca][here]].
+**** The Hall of Boomer Nihilism
+Three-monitor installation, live feed of images from the PatriotsSoapBox
+Discord server coded in Python using the Discord API. Source code
+[[https://github.com/anthbrtn/boomer-hall-of-nihilism][here]]
+**** Commentariat colour scheme
+A colour scheme for text editing in Markdown. Originally designed for
+[[https://atom.io/themes/commentariat][Atom]], it is easily portable to
+other apps such as the terminal emulator
+[[https://github.com/anthbrtn/commentariat-tilix][Tilix]]
