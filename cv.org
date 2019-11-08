@@ -9,23 +9,40 @@
 - git: [[https://github.com/anthbrtn][anthbrtn]]
 - twitter: [[https://twitter.com/anthbrtn][@anthbrtn]]
 
-* Current
+* Education
 **** Master of Arts, Communication & Culture
+SSHRC CGS-M Recipient\\
+Ryerson Graduate Scholar\\
 Ryerson University & York University\\
 2020
+**** Honours Bachelor of Arts, Literature & Philosophy
+High Distinction\\
+Victoria College in the University of Toronto\\
+2017
+* Research and Teaching Appointments
 **** MA Research Associate
 Infoscape Research Lab\\
 Ryerson University
 **** Research Associate
 Open Intelligence Lab\\
 University of Amsterdam
-* Education
-**** Honours Bachelor of Arts, Literature & Philosophy
-High Distinction\\
-Victoria College in the University of Toronto\\
+**** Teaching Assistant: Media Methods
+Sociology Department\\
+Ryerson University\\
+2019
+**** Graduate Assistant
+Department of Politics & Public Administration\\
+Ryerson University\\
+2019
+**** Research Assistant
+Department of Political Science\\
+University of Toronto\\
 2017
+**** Founder & Program Lead
+Editorial Assistant Education Program\\
+The Strand, Victoria College's Student Newspaper\\
+2015-2016
 * Major Research Grants & Fellowships
-
 **** SSHRC Canadian Graduate Studies-Masters Scholarship
 Ryerson University\\
 2019-2020
@@ -60,34 +77,16 @@ Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-t
 
 Burton, Anthony. 2018. [[https://quillandquire.com/review/getting-a-life-the-social-worlds-of-geek-culture/][Review: Getting a Life: The Social Worlds of Geek Culture]]. /Quill & Quire/, March.
 
-* Teaching
-
-**** Teaching Assistant: Media Methods
-Sociology Department\\
-Ryerson University\\
-2019
-**** Graduate Assistant
-Department of Politics & Public Administration\\
-Ryerson University\\
-2019
-**** Research Assistant
-Department of Political Science\\
-University of Toronto\\
-2017
-**** Founder & Program Lead
-Editorial Assistant Education Program\\
-The Strand, Victoria College's Student Newspaper\\
-2015-2016
-* Presentations
+* Presentations (*R* indicates refereed)
 Burton, Anthony. 2019. "Channel surfing: YouTube, Rebel Media, and politicized
 platform networks." Conference presentation. /Pursuing Critical Media &
 Technology Studies./ Ryerson University, November 5.
 
 Burton, Anthony. 2019. "Digital Cultures of Citizenship." Poster Session. /Rubix Research Festival/. Ryerson University, November 4.
 
-Burton, Anthony. 2019. "Digital Characters, Digital Community: The Chad Meme as Community Member in Online Incel Spaces". Conference presentation. /Beyond Life Itself Social & Political Thought Graduate Conference./ Acadia University, May 4.
+*R* Burton, Anthony. 2019. "Digital Characters, Digital Community: The Chad Meme as Community Member in Online Incel Spaces". Conference presentation. /Beyond Life Itself Social & Political Thought Graduate Conference./ Acadia University, May 4.
 
-Burton, Anthony. 2019. "Ideology and the Public Sphere: Telephony Rhetoric in the Doug Ford Administration". Conference presentation. /Canada on the Edge? Robarts Centre Canadian Studies Conference./ York University, May 2.
+*R* Burton, Anthony. 2019. "Ideology and the Public Sphere: Telephony Rhetoric in the Doug Ford Administration". Conference presentation. /Canada on the Edge? Robarts Centre Canadian Studies Conference./ York University, May 2.
 
 Burton, Anthony. 2019. "How to Study the Internet.” Guest lecture presented in SOC482 Media Methods, March 21.
 
