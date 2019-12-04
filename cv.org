@@ -82,6 +82,15 @@ Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-t
 Burton, Anthony. 2018. [[https://quillandquire.com/review/getting-a-life-the-social-worlds-of-geek-culture/][Review: Getting a Life: The Social Worlds of Geek Culture]]. /Quill & Quire/, March.
 
 * Presentations (*R* indicates refereed)
+
+*R* Elmer, Greg, Anthony Burton and Ganaele Langlois. 2020. “The Deep Web’s
+Impact on the 2019 Canadian Election.” Conference presentation. /Digital
+Ecosystems Conference/. Ottawa, Ontario, Canada, February 21.
+
+*R* Burton, Anthony. 2019. “Grammars of Embodiment: A Heideggerian Approach to
+Computer-Mediated Discourse.” Conference presentation. /Future Communications./
+York University, December 13.
+
 Burton, Anthony. 2019. "Channel surfing: YouTube, Rebel Media, and politicized
 platform networks." Conference presentation. /Pursuing Critical Media &
 Technology Studies./ Ryerson University, November 5.
