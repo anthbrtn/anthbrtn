@@ -1,119 +1,60 @@
 #+TITLE: Anthony Burton's curriculum vitae
-#+AUTHOR: Anthony Burton
-#+DATE: November 5 2019
-#+OPTIONS: num:nil toc:nil b
+#+DATE:
+#+author:
+#+OPTIONS: toc:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
-* Contact
+#+latex_class: article
+#+latex_class_options: [letterpaper, 10pt, titlepage=false]
+#+latex_header: \usepackage[utf8]{inputenc}
+#+latex_header: \usepackage[default]{sourcesanspro}
+#+latex_header: \usepackage[T1]{fontenc}
+#+latex_header: \usepackage{microtype}
+#+PANDOC_VARIABLES: geometry:margin=2cm
+* General information
+*Citizenship*: Canadian
 
-- email: anthbrtn {at} gmail
-- git: [[https://github.com/anthbrtn][anthbrtn]]
-- twitter: [[https://twitter.com/anthbrtn][@anthbrtn]]
+*Languages*: English and French
+
+*Tel*: +1 (647) 234 8639
+
+*Email*: ab {at} anthbrtn.com
+
+*Git*: [[https://gitlab.com/anthbrtn]]
 
 * Education
-** Master of Arts, Communication & Culture
-SSHRC CGS-M Recipient
+*Master of Arts, Communication & Culture*. Ryerson University & York University. 2020.
 
-Ryerson Graduate Scholar
+*Graduate Professional Development in Teaching Program*, Level 1. The Chang
+ School of Continuing Education. 2019.
 
-Ryerson University & York University
+*Honours Bachelor of Arts, Literature & Philosophy*. High Distinction. Victoria
+ College in the University of Toronto. 2017
 
-2020
-** Graduate Professional Development in Teaching Program
-Level 1
+* Professional Contributions
+** Publications
+*** Refereed Publications
+Burton, Anthony. 2020. “Loonie Lager Logic: Doug Ford’s 'Buck-a-beer' and Common
+Sense Nationalism". /tripleC: Communication, Capitalism and Critique./ In
+revision.
 
-The Chang School of Continuing Education
-
-2019
-** Honours Bachelor of Arts, Literature & Philosophy
-High Distinction
-
-Victoria College in the University of Toronto
-
-2017
-* Research and Teaching Appointments
-** Public Scholar
-Ryerson University Faculty of Arts
-
-2019-2020
-** MA Research Associate
-Infoscape Research Lab
-
-Ryerson University
-** Research Associate
-Open Intelligence Lab
-
-University of Amsterdam
-** Teaching Assistant: Media Methods
-Sociology Department
-
-Ryerson University
-
-2019
-** Graduate Assistant
-Department of Politics & Public Administration
-
-Ryerson University
-
-2019
-** Research Assistant
-Department of Political Science
-
-University of Toronto
-
-2017
-** Founder & Program Lead
-Editorial Assistant Education Program
-
-The Strand, Victoria College's Student Newspaper
-
-2015-2016
-* Past appointments
-** Visiting Researcher
-Departement van Media & Cultuur
-
-University of Amsterdam
-2019
-** Project Lead
-Digital Methods Initiative Summer School
-
-University of Amsterdam
-
-2019
-* Major Research Grants & Fellowships
-** SSHRC Canadian Graduate Studies-Masters Scholarship
-Ryerson University
-
-2019-2020
-
-** Digital Ecosystem Research Challenge Grant
-Project: "The deep web's impact on the Canadian Election"
-
-Co-PI with Drs. Greg Elmer and Marc Tuters
-
-2019
-
-** Ontario Graduate Scholarship (declined)
-Ryerson University
-
-2019-2020
-
-** Ryerson Graduate Fellowship
-Ryerson University
-
-2018-2020
-
-* Refereed publications
-
-Burton, Anthony. 2020. “Loonie Lager Logic: Doug Ford’s 'Buck-a-beer' and Common Sense Nationalism".
-/tripleC: Communication, Capitalism and Critique./ In revision.
-
-Burton, Anthony. 2019. "Being in/of the Network: The Chad Meme as Digital Subject". /To Be Decided: Journal of Interdisciplinary Theory/. 4 (2): 8.
+Burton, Anthony. 2019. "Being in/of the Network: The Chad Meme as Digital
+Subject". /To Be Decided: Journal of Interdisciplinary Theory/. 4 (2): 8.
 
 Burton, Anthony. 2016. "The Production of Society: Social Cohesion, Newspapers,
 and Social Media". /ImagiNATIONS/ 4 (1): 57--70.
 
-* Other publications
+*** Book Reviews
+Burton, Anthony. 2018. [[https://quillandquire.com/review/getting-a-life-the-social-worlds-of-geek-culture/][Review: Getting a Life: The Social Worlds of Geek
+Culture]]. /Quill & Quire/, March.
 
+*** Reports
+Elmer, G. G. Langlois, M. Tuters, M. Devries, S. J. Neville, A. Burton & S.
+Ward-Kimola. (2020). "Fringe Politics: The Deep Web’s Impact on the Canadian
+Election", Report for Digital Ecosystem, Research Project, Heritage Canada.
+
+With Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
+
+*** Other Publications
 Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/this-is-where-it-starts]['This is where it starts']]. /Digital Citizenship Cultures
 Initiative/. October 23.
 
@@ -123,13 +64,13 @@ Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/the-rebe
 
 With Sal Hagen, Jack Wilson and Marc Tuters. 2019. [[https://oilab.eu/infinitys-abyss-an-overview-of-8chan/.]['Infinity's Abyss: An Overview of 8chan']]. /OILab/, August 8.
 
-With Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
-
 Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x]['X. Why?']]. /The Outline/, June 13.
 
-Burton, Anthony. 2018. [[https://quillandquire.com/review/getting-a-life-the-social-worlds-of-geek-culture/][Review: Getting a Life: The Social Worlds of Geek Culture]]. /Quill & Quire/, March.
-
-* Presentations (*R* indicates refereed)
+*** Presentations (*R* indicates refereed)
+*R* Burton, Anthony. 2020. "The scraped social: towards a methodological
+  bridging of discourse and the digital." Conference presentation. /Beyond
+  Boundaries/ Communication Graduate Caucus Conference. Carleton University,
+  February 26.
 
 *R* Elmer, Greg, Anthony Burton and Ganaele Langlois. 2020. “The Deep Web’s
 Impact on the 2019 Canadian Election.” Conference presentation. /Digital
@@ -154,62 +95,91 @@ Burton, Anthony. 2019. "Digital Cultures of Citizenship." Poster Session. /Rubix
 
 Burton, Anthony. 2019. "How to Study the Internet.” Guest lecture presented in SOC482 Media Methods, March 21.
 
-Burton, Anthony. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture presented in SOC482 Media Methods, March 7.
-* Academic Scholarships & Awards
-** Mitacs Globalink Research Award
-Project: "Streams of the deep web: Mapping YouTube's alt-right in the
-Canadian Election"
+Burton, Anthony. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture
+presented in SOC482 Media Methods, March 7.
 
-2019
+* Research and Teaching Appointments
+** Research Appointments
+*Research Associate*. Infoscape Research Lab, Ryerson University. 2019-.
 
-** Silver V Award for Outstanding Campus Contribution
-Victoria College in the University of Toronto
+*Research Associate*. Open Intelligence Lab, University of Amsterdam. 2019-.
 
-2017
+*Visiting Researcher*. Departement van Media & Cultuur, University of Amsterdam. 2019.
 
-** Secor Essay Prize in Renaissance Studies
-“Veronica Franco’s Epistolary Self-Construction”
+*Graduate Assistant*. Department of Politics & Public Administration, Ryerson University. 2019.
 
-2016
+*Research Assistant*. Department of Political Science, University of Toronto. 2017.
 
-* Projects
-** Digital Citizenship Cultures Initiative
-Website accompanying the Digital Citizenship Cultures research group at
-Ryerson University's Infoscape Lab. Founded initiative with Drs. Greg
-Elmer and Ganaele Langlois. Website
-[[https://dcc.infoscapelab.ca][here]].
-** The Hall of Boomer Nihilism
-Three-monitor installation, live feed of images from the PatriotsSoapBox
-Discord server coded in Python using the Discord API. Source code
-[[https://github.com/anthbrtn/boomer-hall-of-nihilism][here]]
-** Commentariat colour scheme
-A colour scheme for text editing in Markdown. Originally designed for
-[[https://atom.io/themes/commentariat][Atom]], it is easily portable to
-other apps such as the terminal emulator
-[[https://github.com/anthbrtn/commentariat-tilix][Tilix]]
-* Media
+** Teaching
+*** Teaching Assistantships
+*CC8849 Selected Topics in PinP: Digital Methods*. Joint Program in Communication & Culture, Ryerson & York University. 2019.
+
+*SOC482 Media Methods*. Sociology Department, Ryerson University. 2019.
+
+*** Extracurricular Teaching
+*Founder & Program Lead*. Editorial Assistant Education Program. The Strand, Victoria College's Student Newspaper. 2016.
+
+* Software Development
+*PyWarcSer*. Tool to convert a =.warc=-formatted website archive file into a SQL
+database for statistical analysis. Written in Python. Primary functionality is
+to parse webforums using the XenForo forum software.
+
+*Digital Citizenship Cultures Initiative*. Website accompanying the Digital
+Citizenship Cultures research group at Ryerson University's Infoscape Lab.
+Founded initiative with Drs. Greg Elmer and Ganaele Langlois. Website [[https://dcc.infoscapelab.ca][here]].
+
+*“The Hall of Boomer Nihilism”*. Three-monitor installation, live feed of images
+from the PatriotsSoapBox Discord server coded in Python using the Discord API.
+
+*Commentariat colour scheme*. A colour scheme for text editing in Markdown.
+Originally designed for [[https://atom.io/themes/commentariat][Atom]], it is easily portable to other apps such as the
+terminal emulator [[https://github.com/anthbrtn/commentariat-tilix][Tilix]]
+
+* Media Interviews
 Discussion about fake news and Canada’s new right new mediasphere on the Ryerson
-Review of Journalism’s /Pull Quotes/ podcast.
+Review of Journalism’s /Pull Quotes/ podcast. Fraser, Ashley, and Tanja Saric. 7
+November 2019. ‘Pull Quotes Season Three, Episode Two: How Media Professionals
+Adapt to Challenging Misinformation’. //Pull Quotes//.
+https://rrj.ca/pull-quotes-season-three-episode-1-2/.
 
-Fraser, Ashley, and Tanja Saric. 7 November 2019. ‘Pull Quotes Season Three, Episode Two: How Media Professionals Adapt to Challenging Misinformation’. /Pull Quotes/.  https://rrj.ca/pull-quotes-season-three-episode-1-2/.
+* Research Support
+** External Research Grants
+/Digital Disinformation and Citizenship Network./ 2020-2021. Budget: $350,000.
+(Submitted). Collaborator. Heritage Department, Government of Canada. Principal Investigator: Greg Elmer (Ryerson). Co-PIs: Wendy Chun (SFU), Fenwick
+McKelvey (Concordia), Ahmed Al-Rawi (SFU), and Ganaele Langlois (York).
 
-* Service to the Profession
-** Panel chair
-Future Communications Graduate Conference, York University
+/The Dark Web’s impact on the 2019 Canadian Federal Election/. 2019-2020. Budget: $50,000.
+Co-Principal Investigator. Heritage Department, Government of Canada. Principal Investigator: Greg Elmer (Ryerson). Co-Principal Investigator: Marc
+Tuters (University of Amsterdam).
 
-December 13 2019
+* Awards and Honours
+*Social Sciences and Humanites Research Council of Canada Doctoral Fellowship.
+Federal*. 2020-2024. (Submitted).
 
-** MA Executive Representative
-Communication & Culture Graduate Students' Association
+*Social Sciences and Humanities Research Council of Canada Graduate Masters
+Scholarship*. Federal. 2019-2020.
 
-2019-2020
+*Public Scholar*. Ryerson University Faculty of Arts. 2019-2020.
 
-** Panel chair
-Intersections/Cross-Sections Graduate Conference, Ryerson/York University
+*Ontario Graduate Scholarship*. Provincial. 2019-2020. (Declined).
 
-February 4 2019
+*Ryerson Graduate Fellowship*. Program. 2018-2020. (Declined for 2019-2020).
 
-** MA Executive Representative
-Communication & Culture Graduate Students' Association
+*Mitacs Globalink Research Award*. Project: "Streams of the deep web: Mapping YouTube's alt-right in the
+Canadian Election". 2019.
 
-2018-2019
+*Silver V Award for Outstanding Campus Contribution*. Victoria College in the University of Toronto. 2017.
+
+*Secor Essay Prize in Renaissance Studies*. “Veronica Franco’s Epistolary Self-Construction”. 2016.
+
+* Contributions to the Profession
+** Service to Research
+   Panel chair, /Future Communications/ Graduate Conference, York University.
+   December 13 2019.
+
+   Panel chair, /Intersections/Cross-Sections/ Graduate Conference,
+   Ryerson/York University. February 4 2019.
+
+** Service to the University
+   MA Executive Representative. Communication & Culture Graduate Students'
+   Association. 2018-2020.

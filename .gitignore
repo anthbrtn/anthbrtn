@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.log
+tmp/
+CVglanglois_template.pdf
+cvnotes.org
