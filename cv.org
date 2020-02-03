@@ -102,6 +102,9 @@ Burton, Anthony. 2019. "How to Study the Internet.” Guest lecture presented in
 Burton, Anthony. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture
 presented in SOC482 Media Methods, March 7.
 
+*** Datasets
+Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during the 2019 Federal Election (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3634154
+
 * Research and Teaching Appointments
 ** Research Appointments
 *Research Associate*. Infoscape Research Lab, Ryerson University. 2019-.
