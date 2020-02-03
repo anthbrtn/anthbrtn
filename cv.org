@@ -1,6 +1,5 @@
 #+TITLE: Anthony Burton's curriculum vitae
 #+DATE:
-#+author:
 #+OPTIONS: toc:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 #+latex_class: article
@@ -18,6 +17,8 @@
 *Tel*: +1 (647) 234 8639
 
 *Email*: ab {at} anthbrtn.com
+
+*ORCID iD*: https://orcid.org/0000-0001-6474-0313
 
 *Git*: [[https://gitlab.com/anthbrtn]]
 
@@ -67,7 +68,10 @@ With Sal Hagen, Jack Wilson and Marc Tuters. 2019. [[https://oilab.eu/infinitys-
 Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x]['X. Why?']]. /The Outline/, June 13.
 
 *** Presentations (*R* indicates refereed)
-*R* Burton, Anthony. 2020. "The scraped social: towards a methodological
+    *R* Tuters, Mac and Anthony Burton. 2020.  "Rebels and their Followers: YouTube Pundits and the War on 'Social Justice'". Conference presentation.
+/MAPD 2020 (Multidisciplinary Approaches to Political Discourse) #3: Responding to new challenges/. University of Liverpool, 25-26 June 2020.
+
+ *R* Burton, Anthony. 2020. "The scraped social: towards a methodological
   bridging of discourse and the digital." Conference presentation. /Beyond
   Boundaries/ Communication Graduate Caucus Conference. Carleton University,
   February 26.
