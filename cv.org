@@ -127,7 +127,7 @@ Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during th
 *Founder & Program Lead*. Editorial Assistant Education Program. The Strand, Victoria College's Student Newspaper. 2016.
 
 * Software Development
-*company-zetteltags*. Allows for the automatic completion of tags when using the [[https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125][Zettelkasten]] knowledge capture method. Specifically, =company-zetteltags= is built as a backend to the =company-mode= autocompletion framework and plugs into the [[https://github.com/EFLS/zetteldeft][zetteldeft]] software library for =GNU-Emacs=.
+*company-zetteltags*. Allows for the automatic completion of tags when using the [[https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125][Zettelkasten]] knowledge capture method. Specifically, =company-zetteltags= is built as a backend to the =company-mode= autocompletion framework and plugs into the [[https://github.com/EFLS/zetteldeft][zetteldeft]] software library for =GNU-Emacs=. Source code available [[https://gitlab.com/anthbrtn/company-zetteltags/][here]].
 
 *PyWarcSer*. Tool to convert a =.warc=-formatted website archive file into a SQL
 database for statistical analysis. Written in Python. Primary functionality is
