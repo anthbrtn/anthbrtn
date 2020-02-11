@@ -71,6 +71,10 @@ Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-t
     *R* Tuters, Mac and Anthony Burton. 2020.  "Rebels and their Followers: YouTube Pundits and the War on 'Social Justice'". Conference presentation.
 /MAPD 2020 (Multidisciplinary Approaches to Political Discourse) #3: Responding to new challenges/. University of Liverpool, 25-26 June 2020.
 
+    *R* Burton, Anthony. "Watching the Rebel: The politics of microcelebrity on YouTube". Conference presentation. /Changing the Current: Intersections\/Cross-Sections/. Ryerson & York University, March 7.
+
+*R* Burton, Anthony. 2020. "The Grammar of embodiment: White noise, the Other, and information theory." Conference presentation. /What is Information?/. University of Oregon Portland, April 30.
+
  *R* Burton, Anthony. 2020. "The scraped social: towards a methodological
   bridging of discourse and the digital." Conference presentation. /Beyond
   Boundaries/ Communication Graduate Caucus Conference. Carleton University,
@@ -83,7 +87,7 @@ Ecosystems Conference/. Ottawa, Ontario, Canada, February 21.
 Burton, Anthony. 2019. “What Platforms Want: ‘Incels’ and the digital community as
 archive.” Conference presentation. /Possible Worlds/. Ryerson University, December 16.
 
-*R* Burton, Anthony. 2019. “The Grammar of Embodiment: Understanding the mediation of
+*R* Burton, Anthony. 2019. “Hearkening towards the object: Understanding the mediation of
 communication in the digital far-right.” Conference presentation. /Future Communications./
 York University, December 13.
 
@@ -103,7 +107,9 @@ Burton, Anthony. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture
 presented in SOC482 Media Methods, March 7.
 
 *** Datasets
-Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during the 2019 Federal Election (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3634154
+Burton, Anthony. (2020). Rebel Media contributors timeline (Version 0.1.0). [Data set]. Zenodo. doi.org/10.5281/zenodo.3634817
+
+Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during the 2019 Federal Election (Version 1.0.0) [Data set]. Zenodo. doi.org/10.5281/zenodo.3634154
 
 * Research and Teaching Appointments
 ** Research Appointments
