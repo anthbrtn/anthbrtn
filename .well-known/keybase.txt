@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/anthbrtn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of https://anthbrtn.com
+* I am anthbrtn (https://keybase.io/anthbrtn) on keybase.
+* I have a public key with fingerprint 5315 9954 D40B 9D92 7566  39E6 717B 792A 14AA D3FD
+
+To do so, I am signing this object:
+
+{
+	"body": {
+		"key": {
+			"eldest_kid": "01017dc66b70854efebc0fb88b51ac9d84367d329f2979ae0aecfbb985b4ebd475330a",
+			"fingerprint": "53159954d40b9d92756639e6717b792a14aad3fd",
+			"host": "keybase.io",
+			"key_id": "717b792a14aad3fd",
+			"kid": "01017dc66b70854efebc0fb88b51ac9d84367d329f2979ae0aecfbb985b4ebd475330a",
+			"uid": "b0c1fc6cb75f62d5e6e54b7ddf449b19",
+			"username": "anthbrtn"
+		},
+		"service": {
+			"hostname": "anthbrtn.com",
+			"protocol": "https:"
+		},
+		"type": "web_service_binding",
+		"version": 1
+	},
+	"ctime": 1581784583,
+	"expire_in": 157680000,
+	"prev": "df22f3f9f2b788b918f3122338d5bf09255cba3b7897d197a76d8393b9fdef3c",
+	"seqno": 16,
+	"tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFUEYPqcsT5bRHbIs2h6kMN3d2dnZOfVQBFFZVBSZRR12dmZ087h73F2t
+g0RJD1IYlERpNyiowKIsisADFSF0fekiwsmI0iK7ShAEXWhW6iV6bF6G+f7v++b7
+f/79+cMjsWhtQ3rupPbHP6L3B0hky9IZYxok4tK0FG+QqtnQxZKU+UGi2qZSXJIV
+WUHU0nWCZANqjDNiyZwYBoGKaWFqaEBHFKiYqxhhk8kmszgh2IBEY4RqCAIgm1Kx
+xG2nknkpz3YCYQuBAjGGGtVkgilWEdR1gJmOFEQQVk1FM00KOBXCKtcPFSIcMX1W
+YrsCE4/EULx/8P9z7rohOyJbCrd0iyDIdZVCpjOoEUQp1zRMFBwSfeY5Zg0TbNMJ
+qogXONKOYkmg9bbFwsGGnfzFKLHcGqFNeW7gWm5SVKqCIOXHQ2WQToXUbYwkfpsk
+iO1QMUehqGeeb7uOFFcE0wrs0FWBhoIMDRqgWGLbU7bHEnbIgEg3ZHHCf1i9sKRc
+VTngFaJ5gsRIsGJwoKgqAAaFhMtYhdAiJhBFjKiCkYl0agAMCOaUcWBJYV+1jivM
+dRHUrBSmvl3pmEGdx6QdeXuiICcSjUUKp8zKWTu5bd2T0cdb6jh+/Wf5RgwLNy+S
+N2rcH+RTX+7Pec9QabKxILqnbPqyK0Vj83qaote2qhPW9yYyD7Nd5s6WjceeWvtL
+P3QOnGh//OZGeVfejM4Xd2ru9QyfdaA11ty2uOJtcDqTeV7gZK6dOtZQdiG/9ubd
+I43J8+WxwY/NQSRn38FoUas1szmSPr85ad56tqrlUF/Fio9gaeGu64VT83+mE+5g
+LDutY7f9eaBzUbrbyV1ydfDb2W4nm/HmnGqPXCyJNT2aePmksyL/a/cXf/OrBxXv
+Fri32w6WJub3L+w/8rJrvDXyTsfeowX+qP41W9CGL6sP9zXtu7RpsOZH9YXFKHf8
+yqYJvWX975XW7PeXcf9MY9He2XQ2blmTPbe8r/EX
+=7lVX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anthbrtn
+
+==================================================================
+
