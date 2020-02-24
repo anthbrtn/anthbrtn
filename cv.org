@@ -35,10 +35,6 @@
 * Professional Contributions
 ** Publications
 *** Refereed Publications
-Burton, Anthony. 2020. “Loonie Lager Logic: Doug Ford’s 'Buck-a-beer' and Common
-Sense Nationalism". /tripleC: Communication, Capitalism and Critique./ In
-revision.
-
 Burton, Anthony. 2019. "Being in/of the Network: The Chad Meme as Digital
 Subject". /To Be Decided: Journal of Interdisciplinary Theory/. 4 (2): 8.
 
@@ -193,3 +189,9 @@ Canadian Election". 2019.
 ** Service to the University
    MA Executive Representative. Communication & Culture Graduate Students'
    Association. 2018-2020.
+
+
+
+# Local Variables:
+# after-save-hook: (lambda nil (when (org-html-export-to-html) (rename-file "cv.html" "index.html" t)))
+# End:
