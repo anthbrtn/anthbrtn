@@ -127,6 +127,8 @@ Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during th
 database for statistical analysis. Written in Python. Primary functionality is
 to parse webforums using the XenForo forum software.
 
+*fzf-menus*. A set of small menu widgets to connect to wifi and bluetooth using junegunn’s [[https://github.com/junegunn/fzf][fuzzy file finder]].
+
 *Digital Citizenship Cultures Initiative*. Website accompanying the Digital
 Citizenship Cultures research group at Ryerson University's Infoscape Lab.
 Founded initiative with Drs. Greg Elmer and Ganaele Langlois. Website [[https://dcc.infoscapelab.ca][here]].
@@ -189,9 +191,3 @@ Canadian Election". 2019.
 ** Service to the University
    MA Executive Representative. Communication & Culture Graduate Students'
    Association. 2018-2020.
-
-
-
-# Local Variables:
-# after-save-hook: (lambda nil (when (org-html-export-to-html) (rename-file "cv.html" "index.html" t)))
-# End:
