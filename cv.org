@@ -2,7 +2,7 @@
 #+DATE:
 #+OPTIONS: toc:nil
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minima.css"/>
 #+latex_class: article
 #+latex_class_options: [letterpaper, 10pt, titlepage=false]
 #+latex_header: \usepackage[utf8]{inputenc}
