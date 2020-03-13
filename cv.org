@@ -101,6 +101,8 @@ Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during th
 
 * Research and Teaching Appointments
 ** Research Appointments
+*-COounder*. Digital Citizenship Cultures Initiative, Ryerson University. With Drs. Greg Elmer and Ganaele Langlois. 2019-. 
+
 *Research Associate*. Infoscape Research Lab, Ryerson University. 2019-.
 
 *Research Associate*. Open Intelligence Lab, University of Amsterdam. 2019-.
@@ -121,24 +123,27 @@ Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during th
 *Founder & Program Lead*. Editorial Assistant Education Program. The Strand, Victoria College's Student Newspaper. 2016.
 
 * Software Development
-*company-zetteltags*. Allows for the automatic completion of tags when using the [[https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125][Zettelkasten]] knowledge capture method. Specifically, =company-zetteltags= is built as a backend to the =company-mode= autocompletion framework and plugs into the [[https://github.com/EFLS/zetteldeft][zetteldeft]] software library for =GNU-Emacs=. Source code available [[https://gitlab.com/anthbrtn/company-zetteltags/][here]].
+
+*gofindme*. A python-based web scraper for gofundme.com campaigns. Tracks campaign information, donations, and comments. Source code available at [[https://gitlab.com/anthbrtn/gofindme]].
+
+*company-zetteltags*. Allows for the automatic completion of tags when using the [[https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125][Zettelkasten]] knowledge capture method. Specifically, =company-zetteltags= is built as a backend to the =company-mode= autocompletion framework and plugs into the [[https://github.com/EFLS/zetteldeft][zetteldeft]] software library for =GNU-Emacs=. Source code available at [[https://gitlab.com/anthbrtn/company-zetteltags/]].
 
 *PyWarcSer*. Tool to convert a =.warc=-formatted website archive file into a SQL
 database for statistical analysis. Written in Python. Primary functionality is
-to parse webforums using the XenForo forum software.
+to parse webforums using the XenForo forum software. Source code availability pending.
 
-*fzf-menus*. A set of small menu widgets to connect to wifi and bluetooth using junegunn’s [[https://github.com/junegunn/fzf][fuzzy file finder]].
+*fzf-menus*. A set of small menu widgets to connect to wifi and bluetooth using junegunn’s [[https://github.com/junegunn/fzf][fuzzy file finder]]. Source code available at [[https://gitlab.com/anthbrtn/fzf-menus]].
 
-*Digital Citizenship Cultures Initiative*. Website accompanying the Digital
+*Digital Citizenship Cultures Initiative website*. Website accompanying the Digital
 Citizenship Cultures research group at Ryerson University's Infoscape Lab.
-Founded initiative with Drs. Greg Elmer and Ganaele Langlois. Website [[https://dcc.infoscapelab.ca][here]].
+Founded initiative with Drs. Greg Elmer and Ganaele Langlois. Website available at [[https://dcc.infoscapelab.ca]].
 
 *“The Hall of Boomer Nihilism”*. Three-monitor installation, live feed of images
-from the PatriotsSoapBox Discord server coded in Python using the Discord API.
+from the PatriotsSoapBox Discord server coded in Python using the Discord API. Source code available at [[https://gitlab.com/anthbrtn/boomer-hall-of-nihilism]].
 
 *Commentariat colour scheme*. A colour scheme for text editing in Markdown.
 Originally designed for [[https://atom.io/themes/commentariat][Atom]], it is easily portable to other apps such as the
-terminal emulator [[https://github.com/anthbrtn/commentariat-tilix][Tilix]]
+terminal emulator [[https://github.com/anthbrtn/commentariat-tilix][Tilix]]. The repository also contains a detailed tutorial on how to set up a markdown-based writing workflow in Atom. Source code available at [[https://gitlab.com/anthbrtn/commentariat]].
 
 * Media Interviews
 Discussion about fake news and Canada’s new right new mediasphere on the Ryerson
