@@ -57,6 +57,11 @@ table#homepage {
     margin-right:auto;
     text-align:center;
 }
+img {
+  margin-left:auto;
+  margin-right:auto;
+}
+
 h1.homepage {
     width:400;
     text-align:center;
