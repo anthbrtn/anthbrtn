@@ -1,0 +1,11 @@
+#+title: Anthony Burton’s internet site
+#+date:
+#+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"/>
+
+* Heya
++ [[file:cv.html][curriculum vitae]]
++ [[file:about.html][about]]
++ [[https://www.flickr.com/people/holeyship/][photography]]
++ [[https://www.gitlab.com/anthbrn/][code]]
++ [[https://www.twitter.com/anthbrtn/][tweets]]
