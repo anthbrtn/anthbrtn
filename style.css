@@ -4,7 +4,7 @@
     text-rendering:             optimizelegibility !important;
 }
 
-body {font-size: 14px;color:#282c33;background:#ffffff;font-family:Roboto, Arial, Helvetica, sans-serif;line-height: 1.4;margin: 5%;   max-width: 600px; margin-left: auto;margin-right: auto;}
+body {font-size: 14px;color:#282c33;background:#ffffff;font-family:"Droid Sans", Arial, sans-serif;line-height: 1.4;margin: 5%;   max-width: 600px; margin-left: auto;margin-right: auto;}
 
 h1, h2, h3, h4, h5, h6 {font-weight:normal;}
 
@@ -35,7 +35,7 @@ em, dfn {font-style:italic;}
 
 del {color:#666;}
 pre {margin:1.5em 0;white-space:pre;}
-pre, code, tt {font:1em 'andale mono', 'lucida console', monospace;line-height:1.5;}
+pre, code, tt {font:1em 'andale mono', monospace;line-height:1.5;}
 
 li ul, li ol {margin:0;}
 ul, ol {margin:0 3em 1.5em 1.5em;padding-left:1.5em;}
