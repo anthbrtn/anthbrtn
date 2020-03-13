@@ -4,6 +4,6 @@
 #+OPTIONS: toc:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"/>
 
-[[file:circle.png]]
+[[file:amsmall.png]]
 
 I’m currently based in Toronto, Canada. I’m a master’s student at Ryerson and York University’s Joint Program in Communication & Culture, where I study digital methods and political subcultures online. I’m the co-founder of the [[https://www.dcc.infoscapelab.ca][Digital Citizenship Cultures Initiative]]. I’m also a part of the OI Lab (which, if you know of it, will understand why I’m not linking) at the University of Amsterdam. I used to work for the [[https://reviewcanada.ca][Literary Review of Canada]], where I helped make our annual Spur Festival of ideas.

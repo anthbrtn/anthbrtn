@@ -4,10 +4,10 @@
 #+OPTIONS: toc:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"/>
 
-* ~~~
+* ~~~~~~~~~~~~~
 + [[file:cv.html][curriculum vitae]]
 + [[file:about.html][about]]
 + [[file:digital-methods.html][a list of digital methods resources]]
 + [[https://www.flickr.com/people/holeyship/][photography]]
-+ [[https://www.gitlab.com/anthbrn/][code]]
++ [[https://www.gitlab.com/anthbrtn/][code]]
 + [[https://www.twitter.com/anthbrtn/][tweets]]

@@ -1,5 +1,6 @@
 #+TITLE: Anthony Burton's curriculum vitae
 #+DATE:
+#+author:
 #+OPTIONS: toc:nil
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"/>
