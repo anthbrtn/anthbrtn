@@ -39,7 +39,7 @@
 Burton, Anthony. 2019. "Being in/of the Network: The Chad Meme as Digital
 Subject". /To Be Decided: Journal of Interdisciplinary Theory/. 4 (2): 8.
 
-Burton, Anthony. 2016. "The Production of Society: Social Cohesion, Newspapers,
+---. 2016. "The Production of Society: Social Cohesion, Newspapers,
 and Social Media". /ImagiNATIONS/ 4 (1): 57--70.
 
 *** Book Reviews
@@ -51,15 +51,15 @@ Elmer, G. G. Langlois, M. Tuters, M. Devries, S. J. Neville, A. Burton & S.
 Ward-Kimola. (2020). "Fringe Politics: The Deep Web’s Impact on the Canadian
 Election", Report for Digital Ecosystem, Research Project, Heritage Canada.
 
-With Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
+Burton, Anthony, Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
 
 *** Other Publications
 Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/this-is-where-it-starts]['This is where it starts']]. /Digital Citizenship Cultures
 Initiative/. October 23.
 
-Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/new-right-new-mediasphere/]['Canada's New Right New Mediasphere']]. /Digital Citizenship Cultures Initiative/. September 30.
+---. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/new-right-new-mediasphere/]['Canada's New Right New Mediasphere']]. /Digital Citizenship Cultures Initiative/. September 30.
 
-Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/the-rebel-yell/]['The Rebel Yell'.]] /Digital Citizenship Cultures Initiative/. September 17 2019.
+---. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/the-rebel-yell/]['The Rebel Yell'.]] /Digital Citizenship Cultures Initiative/. September 17 2019.
 
 With Sal Hagen, Jack Wilson and Marc Tuters. 2019. [[https://oilab.eu/infinitys-abyss-an-overview-of-8chan/.]['Infinity's Abyss: An Overview of 8chan']]. /OILab/, August 8.
 
@@ -71,34 +71,34 @@ Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-t
 
     *R* Burton, Anthony. 2020. "The grammar of embodiment: White noise, the Other, and information theory." Conference presentation. /What is Information?/. University of Oregon Portland, April 30.
 
-    *R* Burton, Anthony.  Reading the comments: Rebel Media, "citizen journalism", and reactionary audience building."  Conference presentation. /Canadian Communication Association annual conference/. Western University, March 3.
+    *R* ---.  “Reading the comments: Rebel Media, "citizen journalism", and reactionary audience building."  Conference presentation. /Canadian Communication Association annual conference/. Western University, May 3.
 
-    *R* Burton, Anthony. "’Alt-right’ news night: The politics of microcelebrity on YouTube". Conference presentation. /Changing the Current: Intersections\/Cross-Sections/. Ryerson & York University, March 7.
+    *R* ---. "’Alt-right’ news night: The politics of microcelebrity on YouTube". Conference presentation. /Changing the Current: Intersections/Cross-Sections/. Ryerson & York University, March 7.
 
-    *R* Burton, Anthony. 2020. "The scraped social: towards a methodological bridging of discourse and the digital." Conference presentation. /Beyond Boundaries/ Communication Graduate Caucus Conference. Carleton University, February 26.
+    *R* ---. 2020. "The scraped social: towards a methodological bridging of discourse and the digital." Conference presentation. /Beyond Boundaries/ Communication Graduate Caucus Conference. Carleton University, February 26.
 
     *R* Elmer, Greg, Anthony Burton and Ganaele Langlois. 2020. “The Deep Web’s Impact on the 2019 Canadian Election.” Conference presentation. /Digital Ecosystems Conference/. Ottawa, Ontario, Canada, February 21.
 
     Burton, Anthony. 2019. “What Platforms Want: ‘Incels’ and the digital community as archive.” Conference presentation. /Possible Worlds/. Ryerson University, December 16.
 
-    *R* Burton, Anthony. 2019. “Hearkening towards the object: Understanding the mediation of communication in the digital far-right.” Conference presentation. /Future Communications./ York University, December 13.
+    *R* ---. 2019. “Hearkening towards the object: Understanding the mediation of communication in the digital far-right.” Conference presentation. /Future Communications./ York University, December 13.
 
-    Burton, Anthony. 2019. "Channel surfing: YouTube, Rebel Media, and politicized platform networks." Conference presentation. /Pursuing Critical Media & Technology Studies./ Ryerson University, November 5.
+    ---. 2019. "Channel surfing: YouTube, Rebel Media, and politicized platform networks." Conference presentation. /Pursuing Critical Media & Technology Studies./ Ryerson University, November 5.
 
-    Burton, Anthony. 2019. "Digital Cultures of Citizenship." Poster Session. /Rubix Research Festival/. Ryerson University, November 4.
+    ---. 2019. "Digital Cultures of Citizenship." Poster Session. /Rubix Research Festival/. Ryerson University, November 4.
 
-    *R* Burton, Anthony. 2019. "Digital Characters, Digital Community: The Chad Meme as Community Member in Online Incel Spaces". Conference presentation. /Beyond Life Itself Social & Political Thought Graduate Conference./ Acadia University, May 4.
+    *R* ---. 2019. "Digital Characters, Digital Community: The Chad Meme as Community Member in Online Incel Spaces". Conference presentation. /Beyond Life Itself Social & Political Thought Graduate Conference./ Acadia University, May 4.
 
-    *R* Burton, Anthony. 2019. "Ideology and the Public Sphere: Telephony Rhetoric in the Doug Ford Administration". Conference presentation. /Canada on the Edge? Robarts Centre Canadian Studies Conference./ York University, May 2.
+    *R* ---. 2019. "Austerity Ideology and the Public Sphere: Telephony Rhetoric in the Doug Ford Administration". Conference presentation. /Canada on the Edge? Robarts Centre Canadian Studies Conference./ York University, May 2.
 
-    Burton, Anthony. 2019. "How to Study the Internet.” Guest lecture presented in SOC482 Media Methods, March 21.
+    ---. 2019. "How to Study the Internet.” Guest lecture presented in SOC482 Media Methods, March 21.
 
-    Burton, Anthony. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture presented in SOC482 Media Methods, March 7.
+    ---. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture presented in SOC482 Media Methods, March 7.
 
 *** Datasets
 Burton, Anthony. (2020). Rebel Media contributors timeline (Version 0.1.0). [Data set]. Zenodo. doi.org/10.5281/zenodo.3634817
 
-Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during the 2019 Federal Election (Version 1.0.0) [Data set]. Zenodo. doi.org/10.5281/zenodo.3634154
+---. (2020). #cdnpoli and the Twittersphere: User mentions during the 2019 Federal Election (Version 1.0.0) [Data set]. Zenodo. doi.org/10.5281/zenodo.3634154
 
 * Research and Teaching Appointments
 ** Research Appointments
@@ -115,6 +115,10 @@ Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during th
 *Research Assistant*. Department of Political Science, University of Toronto. 2017.
 
 ** Teaching
+*** Project Leadership
+*Post-propaganda pipeline: Junk American political news on Reddit and 4chan /pol/.* University of Amsterdam Digital Methods Initiative Spring Data Sprint. March 2020.
+
+*Streams of the Deep Web: Mapping YouTube’s Alt-Right in the context of the Canadian Federal Election.* University of Amsterdam Digital Methods Initiative Summer School. July 2019.
 *** Teaching Assistantships
 *CC8849 Selected Topics in PinP: Digital Methods*. Joint Program in Communication & Culture, Ryerson & York University. 2019.
 
@@ -129,9 +133,9 @@ Burton, Anthony. (2020). #cdnpoli and the Twittersphere: User mentions during th
 
 *company-zetteltags*. Allows for the automatic completion of tags when using the [[https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125][Zettelkasten]] knowledge capture method. Specifically, =company-zetteltags= is built as a backend to the =company-mode= autocompletion framework and plugs into the [[https://github.com/EFLS/zetteldeft][zetteldeft]] software library for =GNU-Emacs=. Source code available at [[https://gitlab.com/anthbrtn/company-zetteltags/]].
 
-*PyWarcSer*. Tool to convert a =.warc=-formatted website archive file into a SQL
-database for statistical analysis. Written in Python. Primary functionality is
-to parse webforums using the XenForo forum software. Source code availability pending.
+*PyWarcSer*. Tool to download all publicly-accessible pages of webforums built using the XenForo webforum software, convert into a =.warc=-formatted website archive file, and insert into a SQL database for statistical analysis. Written in Python. Source code availability pending.
+
+*Digital Methods Toolkit*. An evolving list of resources to perform digital methods research. Available at https://anthbrtn.com/digital-methods.html.
 
 *fzf-menus*. A set of small menu widgets to connect to wifi and bluetooth using junegunn’s [[https://github.com/junegunn/fzf][fuzzy file finder]]. Source code available at [[https://gitlab.com/anthbrtn/fzf-menus]].
 
