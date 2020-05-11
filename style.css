@@ -11,17 +11,17 @@ body {
 
 
 /* # Header # */
-.superHeader {
+.h1 {
   color: black;
   background-color: white;
   height: 1.6em;
 }
 
-.superHeader img {
+.h1 img {
   vertical-align: bottom;
 }
 
-.superHeader a {
+.h1 a {
   color: blue;
   background-color: transparent;
   text-decoration: none;
@@ -29,77 +29,19 @@ body {
   margin: 0;
   padding: 0 0.5ex 0 0.25ex;
 }
-.superHeader a:hover {
+.h1 a:hover {
   text-decoration: none;
   color: purple;
   background-color: white;
 }
 
-.superHeader div {
+.h1 div {
   position: absolute;
   top: 0.40ex;
 }
 
-.superHeader .left { left: 0.4em; }
-.superHeader .right { right: 0.4em; }
-
-.midHeader {
-  color: black;
-  background-color: white;
-  border: solid 0 white;
-  border-width: 1px 0 0;
-}
-
-.headerTitle {
-  color: black;
-  font-family: klavika, verdana, helvetica, arial, sans-serif;
-  font-size: 233%;
-  font-weight: normal;
-  margin: 0 0 0 4mm;
-  padding: 0.25ex 0;
-}
-#headerSubTitle {
-  font-size: 50%;
-  font-style: italic;
-  margin-left: 1em;
-}
-
-.headerTitle a {
-  color: blue;
-  text-decoration: none;
-}
-.headerTitle a:hover {
-  color: purple;
-  background-color: white;
-  text-decoration: none;
-}
-
-.subHeader {
-  display: none;
-  color: black;
-  background-color: white;
-  margin: 0;
-  padding: 1ex 1ex 1ex 1.5mm;
-}
-
-.subHeader a {
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
-  font-weight: bold;
-  margin: 0;
-  padding: 0 0.75ex 0 0.5ex;
-}  
-.subHeader a:hover {
-  color: purple;
-  background-color: white;
-  text-decoration: none;
-}
-
-.superHeader .highlight, .subHeader .highlight {
-  color: black;
-  background-color: transparent;
-}
+.h1 .left { left: 0.4em; }
+.h1 .right { right: 0.4em; }
 
 
 /* # Side # */
@@ -150,7 +92,7 @@ li ul {
   border-left: black solid 0.2em;
 }
 
-.thisPage, .thisPage a {
+.page a {
   color: black!important;
   background-color: #D8DFEA;
   padding-left: 5mm;
@@ -189,7 +131,7 @@ li ul {
 
 
 /* # Main Copy # */
-#main-copy {
+#body {
   max-width: 70em;
   color: black;
   background-color: transparent;
@@ -368,10 +310,3 @@ h1.dir-list-head, ul.dir-list {
 }
 ul.sitemap-list a {
 }
-
-/* # Junk: should move elsewhere # */
-/* S-pam */
-.gpam { text-align: center; }
-.gpam table, .gpam th, .gpam td { border: none; }
-
-
