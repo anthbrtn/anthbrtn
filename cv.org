@@ -1,4 +1,4 @@
-#+TITLE: Anthony Burton's curriculum vitae
+#+TITLE: Anthony Glyn Burton's curriculum vitae
 #+DATE:
 #+author:
 #+OPTIONS: toc:nil
@@ -25,6 +25,8 @@
 *Git*: [[https://gitlab.com/anthbrtn]]
 
 * Education
+*Doctor of Philosophy, Communications.* Simon Fraser University. 2024.
+
 *Master of Arts, Communication & Culture*. Ryerson University & York University. 2020.
 
 *Graduate Professional Development in Teaching Program*, Level 1. The Chang
@@ -36,50 +38,54 @@
 * Professional Contributions
 ** Publications
 *** Refereed Publications
-Burton, Anthony. 2019. "Being in/of the Network: The Chad Meme as Digital
+Burton, Anthony Glyn and Dimitri Koehorst. 2020. "The Spread of Political Misinformation on Online Subcultural Platforms". /Harvard Misinformation Review/. Upcoming, 2020.
+
+Burton, Anthony Glyn. 2019. "Being in/of the Network: The Chad Meme as Digital
 Subject". /To Be Decided: Journal of Interdisciplinary Theory/. 4 (2): 8.
 
 ---. 2016. "The Production of Society: Social Cohesion, Newspapers,
 and Social Media". /ImagiNATIONS/ 4 (1): 57--70.
 
 *** Book Reviews
-Burton, Anthony. 2018. [[https://quillandquire.com/review/getting-a-life-the-social-worlds-of-geek-culture/][Review: Getting a Life: The Social Worlds of Geek
+Burton, Anthony Glyn. 2018. [[https://quillandquire.com/review/getting-a-life-the-social-worlds-of-geek-culture/][Review: Getting a Life: The Social Worlds of Geek
 Culture]]. /Quill & Quire/, March.
 
 *** Reports
-Elmer, G. G. Langlois, M. Tuters, M. Devries, S. J. Neville, A. Burton & S.
+Elmer, Greg, Ganaele Langlois, Marc Tuters, Melody Devries, Steven J. Neville, Anthony G. Burton & Sabrina
 Ward-Kimola. (2020). "Fringe Politics: The Deep Web’s Impact on the Canadian
 Election", Report for Digital Ecosystem, Research Project, Heritage Canada.
 
-Burton, Anthony, Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
+Burton, Anthony Glyn, Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
 
 *** Other Publications
-Burton, Anthony. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/this-is-where-it-starts]['This is where it starts']]. /Digital Citizenship Cultures
+Elmer, Greg, Anthony Glyn Burton, and Stephen J. Neville. 2020. “Zoom-Bombings Disrupt Online Events with Racist and Misogynist Attacks.” The Conversation. June 9, 2020. http://theconversation.com/zoom-bombings-disrupt-online-events-with-racist-and-misogynist-attacks-138389.
+
+Burton, Anthony Glyn. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/this-is-where-it-starts]['This is where it starts']]. /Digital Citizenship Cultures
 Initiative/. October 23.
 
 ---. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/new-right-new-mediasphere/]['Canada's New Right New Mediasphere']]. /Digital Citizenship Cultures Initiative/. September 30.
 
 ---. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/the-rebel-yell/]['The Rebel Yell'.]] /Digital Citizenship Cultures Initiative/. September 17 2019.
 
-With Sal Hagen, Jack Wilson and Marc Tuters. 2019. [[https://oilab.eu/infinitys-abyss-an-overview-of-8chan/.]['Infinity's Abyss: An Overview of 8chan']]. /OILab/, August 8.
+Hagen, Sal, Anthony Glyn Burton, Jack Wilson and Marc Tuters. 2019. [[https://oilab.eu/infinitys-abyss-an-overview-of-8chan/.]['Infinity's Abyss: An Overview of 8chan']]. /OILab/, August 8.
 
-Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x]['X. Why?']]. /The Outline/, June 13.
+Burton, Anthony Glyn. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x]['X. Why?']]. /The Outline/, June 13.
 
 *** Presentations (*R* indicates refereed)
 
-    *R* Tuters, Marc and Anthony Burton. 2020.  "Rebels and their Followers: YouTube Pundits and the War on 'Social Justice'". Conference presentation. /MAPD 2020 (Multidisciplinary Approaches to Political Discourse) #3: Responding to new challenges/. University of Liverpool, 25-26 June 2020.
+    *R* Tuters, Marc and Anthony Burton. 2020.  "Rebels and their Followers: YouTube Pundits and the War on 'Social Justice'". Conference presentation. /MAPD 2020 (Multidisciplinary Approaches to Political Discourse) #3: Responding to new challenges/. University of Liverpool, 25-26 June 2020. Postponed due to COVID-19.
 
     *R* Burton, Anthony. 2020. "The grammar of embodiment: White noise, the Other, and information theory." Conference presentation. /What is Information?/. University of Oregon Portland, April 30.
 
-    *R* ---.  “Reading the comments: Rebel Media, "citizen journalism", and reactionary audience building."  Conference presentation. /Canadian Communication Association annual conference/. Western University, May 3.
+    *R* ---.  “Reading the comments: Rebel Media, "citizen journalism", and reactionary audience building."  Conference presentation. /Canadian Communication Association annual conference/. Western University, May 3. Cancelled due to COVID-19.
 
     *R* ---. "’Alt-right’ news night: The politics of microcelebrity on YouTube". Conference presentation. /Changing the Current: Intersections/Cross-Sections/. Ryerson & York University, March 7.
 
     *R* ---. 2020. "The scraped social: towards a methodological bridging of discourse and the digital." Conference presentation. /Beyond Boundaries/ Communication Graduate Caucus Conference. Carleton University, February 26.
 
-    *R* Elmer, Greg, Anthony Burton and Ganaele Langlois. 2020. “The Deep Web’s Impact on the 2019 Canadian Election.” Conference presentation. /Digital Ecosystems Conference/. Ottawa, Ontario, Canada, February 21.
+    *R* Elmer, Greg, Anthony Glyn Burton and Ganaele Langlois. 2020. “The Deep Web’s Impact on the 2019 Canadian Election.” Conference presentation. /Digital Ecosystems Conference/. Ottawa, Ontario, Canada, February 21.
 
-    Burton, Anthony. 2019. “What Platforms Want: ‘Incels’ and the digital community as archive.” Conference presentation. /Possible Worlds/. Ryerson University, December 16.
+    Burton, Anthony Glyn. 2019. “What Platforms Want: ‘Incels’ and the digital community as archive.” Conference presentation. /Possible Worlds/. Ryerson University, December 16.
 
     *R* ---. 2019. “Hearkening towards the object: Understanding the mediation of communication in the digital far-right.” Conference presentation. /Future Communications./ York University, December 13.
 
@@ -96,7 +102,7 @@ Burton, Anthony. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-love-t
     ---. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture presented in SOC482 Media Methods, March 7.
 
 *** Datasets
-Burton, Anthony. (2020). Rebel Media contributors timeline (Version 0.1.0). [Data set]. Zenodo. doi.org/10.5281/zenodo.3634817
+Burton, Anthony Glyn. (2020). Rebel Media contributors timeline (Version 0.1.0). [Data set]. Zenodo. doi.org/10.5281/zenodo.3634817
 
 ---. (2020). #cdnpoli and the Twittersphere: User mentions during the 2019 Federal Election (Version 1.0.0) [Data set]. Zenodo. doi.org/10.5281/zenodo.3634154
 
@@ -114,17 +120,16 @@ Burton, Anthony. (2020). Rebel Media contributors timeline (Version 0.1.0). [Dat
 
 *Research Assistant*. Department of Political Science, University of Toronto. 2017.
 
-** Teaching
-*** Project Leadership
+** Project Leadership
 *Post-propaganda pipeline: Junk American political news on Reddit and 4chan /pol/.* University of Amsterdam Digital Methods Initiative Spring Data Sprint. March 2020.
 
 *Streams of the Deep Web: Mapping YouTube’s Alt-Right in the context of the Canadian Federal Election.* University of Amsterdam Digital Methods Initiative Summer School. July 2019.
-*** Teaching Assistantships
+** Teaching Assistantships
 *CC8849 Selected Topics in PinP: Digital Methods*. Joint Program in Communication & Culture, Ryerson & York University. 2019.
 
 *SOC482 Media Methods*. Sociology Department, Ryerson University. 2019.
 
-*** Extracurricular Teaching
+** Extracurricular Teaching
 *Founder & Program Lead*. Editorial Assistant Education Program. The Strand, Victoria College's Student Newspaper. 2016.
 
 * Software Development
@@ -157,10 +162,12 @@ November 2019. ‘Pull Quotes Season Three, Episode Two: How Media Professionals
 Adapt to Challenging Misinformation’. //Pull Quotes//.
 https://rrj.ca/pull-quotes-season-three-episode-1-2/.
 
+Media consultation about COVID-related misinformation and alternative digital platforms. Bellemare, Andrea, Katie Nicholson, and Jason Ho. 21 May 2020. ’How a debunked COVID-19 video kept spreading after Facebook and YouTube took it down.’ /CBC News/. https://www.cbc.ca/news/technology/alt-tech-platforms-resurface-plandemic-1.5577013
+
 * Research Support
 ** External Research Grants
 /Digital Disinformation and Citizenship Network./ 2020-2021. Budget: $350,000.
-(Submitted). Collaborator. Heritage Department, Government of Canada. Principal Investigator: Greg Elmer (Ryerson). Co-PIs: Wendy Chun (SFU), Fenwick
+Collaborator. Heritage Department, Government of Canada. Principal Investigator: Greg Elmer (Ryerson). Co-PIs: Wendy Chun (SFU), Fenwick
 McKelvey (Concordia), Ahmed Al-Rawi (SFU), and Ganaele Langlois (York).
 
 /The Dark Web’s impact on the 2019 Canadian Federal Election/. 2019-2020. Budget: $50,000.
@@ -168,8 +175,7 @@ Co-Principal Investigator. Heritage Department, Government of Canada. Principal 
 Tuters (University of Amsterdam).
 
 * Awards and Honours
-*Social Sciences and Humanites Research Council of Canada Joseph Armand-Bombardier Doctoral Fellowship.
-Federal*. 2020-2023.
+*Social Sciences and Humanites Research Council of Canada Joseph Armand-Bombardier Doctoral Fellowship.* Federal. 2020-2023.
 
 *Social Sciences and Humanities Research Council of Canada Graduate Masters
 Scholarship*. Federal. 2019-2020.
