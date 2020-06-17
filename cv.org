@@ -58,6 +58,8 @@ Election", Report for Digital Ecosystem, Research Project, Heritage Canada.
 Burton, Anthony Glyn, Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
 
 *** Other Publications
+Elmer, Greg, Anthony Glyn Burton, and Stephen J. Neville. 2020. “These researchers tracked down how hackers are disrupting Zoom chats.” Global News. June 15, 2020. https://globalnews.ca/news/7048850/zoom-hacking/.
+
 Elmer, Greg, Anthony Glyn Burton, and Stephen J. Neville. 2020. “Zoom-Bombings Disrupt Online Events with Racist and Misogynist Attacks.” The Conversation. June 9, 2020. http://theconversation.com/zoom-bombings-disrupt-online-events-with-racist-and-misogynist-attacks-138389.
 
 Burton, Anthony Glyn. 2019. [[https://dcc.infoscapelab.ca/projects/ecosystem/this-is-where-it-starts]['This is where it starts']]. /Digital Citizenship Cultures
