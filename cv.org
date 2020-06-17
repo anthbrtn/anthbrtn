@@ -158,13 +158,13 @@ Originally designed for [[https://atom.io/themes/commentariat][Atom]], it is eas
 terminal emulator [[https://github.com/anthbrtn/commentariat-tilix][Tilix]]. The repository also contains a detailed tutorial on how to set up a markdown-based writing workflow in Atom. Source code available at [[https://gitlab.com/anthbrtn/commentariat]].
 
 * Media Interviews
+Media consultation about COVID-related misinformation and alternative digital platforms. Bellemare, Andrea, Katie Nicholson, and Jason Ho. 21 May 2020. ’How a debunked COVID-19 video kept spreading after Facebook and YouTube took it down.’ /CBC News/. https://www.cbc.ca/news/technology/alt-tech-platforms-resurface-plandemic-1.5577013
+
 Discussion about fake news and Canada’s new right new mediasphere on the Ryerson
 Review of Journalism’s /Pull Quotes/ podcast. Fraser, Ashley, and Tanja Saric. 7
 November 2019. ‘Pull Quotes Season Three, Episode Two: How Media Professionals
 Adapt to Challenging Misinformation’. //Pull Quotes//.
 https://rrj.ca/pull-quotes-season-three-episode-1-2/.
-
-Media consultation about COVID-related misinformation and alternative digital platforms. Bellemare, Andrea, Katie Nicholson, and Jason Ho. 21 May 2020. ’How a debunked COVID-19 video kept spreading after Facebook and YouTube took it down.’ /CBC News/. https://www.cbc.ca/news/technology/alt-tech-platforms-resurface-plandemic-1.5577013
 
 * Research Support
 ** External Research Grants
