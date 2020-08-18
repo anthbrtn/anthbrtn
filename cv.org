@@ -60,8 +60,11 @@ Burton, Anthony Glyn. 2018. [[https://quillandquire.com/review/getting-a-life-th
 Culture]]. /Quill & Quire/, March.
 
 *** Reports
+de Keulenaar, Emillie, Ivan Kisjes. Anthony Burton, Jasper van der Heide, Dieuwertje Luitse, Eleonora Cappuccio, Guilherme Appolinário, Narzanin Massoumi, Tom Mills, Amy Harris, Jörn Preuß. 2020. “Demoting, deplatforming and replatforming COVID-19 misinformation". /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 30.
+
+
 Elmer, Greg, Ganaele Langlois, Marc Tuters, Melody Devries, Steven J. Neville, Anthony G. Burton & Sabrina
-Ward-Kimola. (2020). "Fringe Politics: The Deep Web’s Impact on the Canadian
+Ward-Kimola. 2020. "Fringe Politics: The Deep Web’s Impact on the Canadian
 Election", Report for Digital Ecosystem, Research Project, Heritage Canada.
 
 Burton, Anthony Glyn, Ivana Škoro, Henri Mütschele, Myrthe Reuver, and Shenglang Qing. 2019. [[https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb]['Streams of the Deep Web: Mapping Rebel Media on YouTube']]. /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 21.
@@ -192,6 +195,8 @@ Co-Principal Investigator. Heritage Department, Government of Canada. Principal 
 Tuters (University of Amsterdam).
 
 * Awards and Honours
+*Ryerson University Thesis Gold Medal*. Nomination. Ryerson Unviersity Faculty of Arts. 2020.
+
 *Social Sciences and Humanites Research Council of Canada Joseph Armand-Bombardier Doctoral Fellowship.* Federal. 2020-2023.
 
 *Social Sciences and Humanities Research Council of Canada Graduate Masters
