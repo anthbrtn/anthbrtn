@@ -240,16 +240,29 @@ dd {
 
 table {
   background-color: none;
-  border: none;
+  border-collapse: collapse;
+  width: 100%;
 }
+
 th {
-  background-color: none;
-  border: none;
-   text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 10px;
 }
+
 td {
   background-color: none;
-  border: none;
+  font-size: 10px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;} 
+tr:hover {background-color: #ddd;}
+th, td {
+  padding: 10px;
+  text-align: left;
 }
 
 hr {
