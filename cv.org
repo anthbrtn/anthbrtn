@@ -117,6 +117,10 @@ Burton, Anthony Glyn. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-l
 
     *R* ---. 2019. "Austerity Ideology and the Public Sphere: Telephony Rhetoric in the Doug Ford Administration". Conference presentation. /Canada on the Edge? Robarts Centre Canadian Studies Conference./ York University, May 2.
 
+*** Invited talks
+
+    ---. 2020. Workshop on construction of digital research persona for investigative journalism. 17 November, Canadian Centre for Free Expression.
+
     ---. 2019. "How to Study the Internet.” Guest lecture presented in SOC482 Media Methods, March 21.
 
     ---. 2019. "A Narrative Analysis Case Study: Gab.ai." Guest lecture presented in SOC482 Media Methods, March 7.
@@ -178,16 +182,14 @@ Originally designed for [[https://atom.io/themes/commentariat][Atom]], it is eas
 terminal emulator [[https://github.com/anthbrtn/commentariat-tilix][Tilix]]. The repository also contains a detailed tutorial on how to set up a markdown-based writing workflow in Atom. Source code available at [[https://gitlab.com/anthbrtn/commentariat]].
 
 * Media Interviews
+
 Interview about misinformation news in Canadian “new right new media”.  Do Couto, Sarah. August 2 2020. ’Fullish Disclosure.’ /Ryerson Review of Journalism/. https://rrj.ca/fullish-disclosure/
 
 Interview about the proliferation of Zoombombing during COVID-19 self-quarantine. Sobocan, Cathy. 29 June 2020. 106.5 ELMNT FM.
 
 Consultation about COVID-related misinformation and alternative digital platforms. Bellemare, Andrea, Katie Nicholson, and Jason Ho. 21 May 2020. ’How a debunked COVID-19 video kept spreading after Facebook and YouTube took it down.’ /CBC News/. https://www.cbc.ca/news/technology/alt-tech-platforms-resurface-plandemic-1.5577013
 
-Discussion about fake news and Canada’s new right new media on the Ryerson
-Review of Journalism’s /Pull Quotes/ podcast. Fraser, Ashley, and Tanja Saric. 7
-November 2019. ‘Pull Quotes Season Three, Episode Two: How Media Professionals
-Adapt to Challenging Misinformation’. /Pull Quotes/.
+Discussion about fake news and Canada’s new right new media on the Ryerson Review of Journalism’s /Pull Quotes/ podcast. Fraser, Ashley, and Tanja Saric. 7 November 2019. ‘Pull Quotes Season Three, Episode Two: How Media Professionals Adapt to Challenging Misinformation’. /Pull Quotes/.
 https://rrj.ca/pull-quotes-season-three-episode-1-2/.
 
 * Research Support
@@ -201,9 +203,11 @@ Co-Principal Investigator. Heritage Department, Government of Canada. Principal 
 Tuters (University of Amsterdam).
 
 * Awards and Honours
-*Ryerson University Thesis Gold Medal*. Nomination. Ryerson Unviersity Faculty of Arts. 2020.
+*Provost's Prize of Distinction*. Simon Fraser University. 2020-2023.
 
 *Social Sciences and Humanites Research Council of Canada Joseph Armand-Bombardier Doctoral Fellowship.* Federal. 2020-2023.
+
+*Ryerson University Thesis Gold Medal*. Nomination. Ryerson Unviersity Faculty of Arts. 2020.
 
 *Social Sciences and Humanities Research Council of Canada Graduate Masters
 Scholarship*. Federal. 2019-2020.
