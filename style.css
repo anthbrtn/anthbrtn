@@ -3,10 +3,11 @@
 body {
   color: black;
   background-color: white;
-  font-family: verdana, helvetica, arial, sans-serif;
+  font-family: arial, helvetica, sans-serif;
   font-size: 18px;  /* Enables font size scaling in MSIE */
   margin: 20px;
   width: 800px;
+  text-align: center;
   padding: 0;
 }
 #content {
