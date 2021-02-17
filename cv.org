@@ -41,9 +41,12 @@ Award for Outstanding Thesis, nominated.
 * Professional Contributions
 ** Publications
 *** Refereed Publications
+
+Burton, Anthony G. "Blackpill Science: incels and the neoliberal program of masculinity." /Canadian Journal of Communications/. Accepted, 2021.
+
 Burton, Anthony G. and Marc Tuters. "The Rebel Yell: Alt-Right Audiences &
-Burlesque Traditionalism on YouTube". /Canadian Journalism of Communications/.
-Under review, 2020.
+Burlesque Traditionalism on YouTube". /Canadian Journal of Communications/.
+Under review, 2021.
 
 Elmer, Greg, Ward-Kimola, Sabrina, & Burton, Anthony Glyn. 2020. Crowdfunding during COVID-19: An international comparison of online fundraising. /First Monday/, 25(11). https://firstmonday.org/ojs/index.php/fm/article/view/10869
 
@@ -65,7 +68,6 @@ Culture]]. /Quill & Quire/, March.
 
 *** Reports
 de Keulenaar, Emillie, Ivan Kisjes. Anthony G. Burton, Jasper van der Heide, Dieuwertje Luitse, Eleonora Cappuccio, Guilherme Appolinário, Narzanin Massoumi, Tom Mills, Amy Harris, Jörn Preuß. 2020. “Demoting, deplatforming and replatforming COVID-19 misinformation". /Digital Methods Institute Summer School/ Project Report. University of Amsterdam, July 30.
-
 
 Elmer, Greg, Ganaele Langlois, Marc Tuters, Melody Devries, Steven J. Neville, Anthony G. Burton & Sabrina
 Ward-Kimola. 2020. "Fringe Politics: The Deep Web’s Impact on the Canadian
@@ -119,6 +121,9 @@ Burton, Anthony Glyn. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-l
 
 *** Invited talks
 
+
+    ---. 2021. Workshop on methods teaching. 10 February, CC9000 Advanced Research Methodologies, Ryerson University.
+
     ---. 2020. Workshop on construction of digital research persona for investigative journalism. 17 November, Canadian Centre for Free Expression.
 
     ---. 2019. "How to Study the Internet.” Guest lecture presented in SOC482 Media Methods, March 21.
@@ -147,9 +152,13 @@ Burton, Anthony Glyn. (2020). Rebel Media contributors timeline (Version 0.1.0).
 *Research Assistant*. Department of Political Science, University of Toronto. 2017.
 
 ** Project Leadership
+
+*The Post-Trump Information Ecology: Political news on Reddit and 4chan /pol/ and the 2020 American election.* University of Amsterdam Digital Methods Initiative Winter School. January 2021.
+
 *Post-propaganda pipeline: Junk American political news on Reddit and 4chan /pol/.* University of Amsterdam Digital Methods Initiative Spring Data Sprint. March 2020.
 
 *Streams of the Deep Web: Mapping YouTube’s Alt-Right in the context of the Canadian Federal Election.* University of Amsterdam Digital Methods Initiative Summer School. July 2019.
+
 ** Teaching Assistantships
 *CC8849 Selected Topics in PinP: Digital Methods*. Joint Program in Communication & Culture, Ryerson & York University. 2019.
 
@@ -182,6 +191,8 @@ Originally designed for [[https://atom.io/themes/commentariat][Atom]], it is eas
 terminal emulator [[https://github.com/anthbrtn/commentariat-tilix][Tilix]]. The repository also contains a detailed tutorial on how to set up a markdown-based writing workflow in Atom. Source code available at [[https://gitlab.com/anthbrtn/commentariat]].
 
 * Media Interviews
+
+Interview about resurgence of racist Zoombombing instance at Queen’s University. Krause, Kraig. February 4 2021. Queen’s University lecture hacked by ‘Zoom bombers’. /Global News/. https://globalnews.ca/news/7621278/queens-university-lecture-zoom-bombers/
 
 Interview about misinformation news in Canadian “new right new media”.  Do Couto, Sarah. August 2 2020. ’Fullish Disclosure.’ /Ryerson Review of Journalism/. https://rrj.ca/fullish-disclosure/
 
