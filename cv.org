@@ -7,7 +7,6 @@
 #+latex_class: article
 #+latex_class_options: [letterpaper, 10pt, titlepage=false]
 #+latex_header: \usepackage[utf8]{inputenc}
-#+latex_header: \usepackage[default]{sourcesanspro}
 #+latex_header: \usepackage[T1]{fontenc}
 #+latex_header: \usepackage{microtype}
 #+PANDOC_VARIABLES: geometry:margin=2cm
@@ -42,19 +41,21 @@ Award for Outstanding Thesis, nominated.
 ** Publications
 *** Refereed Publications
 
-Burton, Anthony G. "Blackpill Science: incels and the neoliberal program of masculinity." /Canadian Journal of Communications/. Accepted, 2021.
+---. "Wojak’s lament: Memetic excess and the NPC under network capitalism." /Institute of Network Cultures Reader #15 – Critical Meme Research/. Accepted, 2021.
 
-Burton, Anthony G. and Marc Tuters. "The Rebel Yell: Alt-Right Audiences &
+---. "Blackpill science: incels and the neoliberal program of masculinity." /Canadian Journal of Communications/. Accepted, 2021.
+
+--- and Marc Tuters. "The Rebel Yell: Alt-Right Audiences &
 Burlesque Traditionalism on YouTube". /Canadian Journal of Communications/.
 Under review, 2021.
 
-Elmer, Greg, Ward-Kimola, Sabrina, & Burton, Anthony Glyn. 2020. Crowdfunding during COVID-19: An international comparison of online fundraising. /First Monday/, 25(11). https://firstmonday.org/ojs/index.php/fm/article/view/10869
+Elmer, Greg, Ward-Kimola, Sabrina, & Burton, Anthony Glyn. 2020. "Crowdfunding during COVID-19: An international comparison of online fundraising." /First Monday/, 25(11). https://firstmonday.org/ojs/index.php/fm/article/view/10869
 
 Burton, Anthony G. and Dimitri Koehorst. 2020. "The Spread of Political
 Misinformation on Online Subcultural Platforms". /Harvard Misinformation
 Review/. https://misinforeview.hks.harvard.edu/article/research-note-the-spread-of-political-misinformation-on-online-subcultural-platforms/.
 
-Burton, Anthony G. 2019. "Being in/of the Network: The Chad Meme as Digital
+---. 2019. "Being in/of the Network: The Chad Meme as Digital
 Subject". /To Be Decided: Journal of Interdisciplinary Theory/. 4 (2): 8.
 
 ---. 2016. "The Production of Society: Social Cohesion, Newspapers,
@@ -95,9 +96,13 @@ Burton, Anthony Glyn. 2018. [[https://theoutline.com/post/4919/x-why-does-tech-l
 
 *** Presentations (*R* indicates refereed)
 
+    *R* ---. 2021. "Discourse machines: social platforms and the technical construction of misinformation." Conference presentation. /Canadian Communication Association annual conference/. Western University, June 4.
+
+    *R* ---. 2021. "‘Cat-V Considered Harmful’ Considered Harmful: Software minimalism and the ideology of computation" Conference presentation. Intersections/Cross-Sections/. Ryerson & York University, March 12.
+
     *R* Tuters, Marc and Anthony Burton. 2020.  "Rebels and their Followers: YouTube Pundits and the War on 'Social Justice'". Conference presentation. /MAPD 2020 (Multidisciplinary Approaches to Political Discourse) #3: Responding to new challenges/. University of Liverpool, 25-26 June 2020. Postponed due to COVID-19.
 
-    *R* Burton, Anthony. 2020. "The grammar of embodiment: White noise, the Other, and information theory." Conference presentation. /What is Information?/. University of Oregon Portland, April 30.
+    *R* Burton, Anthony G. 2020. "The grammar of embodiment: White noise, the Other, and information theory." Conference presentation. /What is Information?/. University of Oregon Portland, April 30.
 
     *R* ---.  “Reading the comments: Rebel Media, "citizen journalism", and reactionary audience building."  Conference presentation. /Canadian Communication Association annual conference/. Western University, May 3. Cancelled due to COVID-19.
 
@@ -238,6 +243,9 @@ Canadian Election". 2019.
 
 * Contributions to the Profession
 ** Service to Research
+
+   Co-organizer, 3TRG (Technics, Techne and Technology Reading Group). Digital Democracies Institute, Vancouver, Canada and Associação de Pesquisas e Práticas em Humanidades, Porto Alegre, Brazil. 2021.
+
    Panel chair, /Intersections/Cross-Sections/ Graduate Conference,
    Ryerson/York University. March 15 2020.
 
