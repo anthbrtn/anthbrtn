@@ -2,14 +2,7 @@
 #+DATE:
 #+author:
 #+OPTIONS: toc:nil
-
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css">
-#+latex_class: article
-#+latex_class_options: [letterpaper, 10pt, titlepage=false]
-#+latex_header: \usepackage[utf8]{inputenc}
-#+latex_header: \usepackage[T1]{fontenc}
-#+latex_header: \usepackage{microtype}
-#+PANDOC_VARIABLES: geometry:margin=2cm
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"\>
 * General information
 *Citizenship*: Canadian
 
