@@ -11,3 +11,4 @@
 + [[https://www.flickr.com/people/holeyship/][photography]]
 + [[https://www.gitlab.com/anthbrtn/][code]]
 + [[https://www.twitter.com/anthbrtn/][tweets]]
++ [[https://www.zotero.org/anthbrtn/library/][my zotero library]]
