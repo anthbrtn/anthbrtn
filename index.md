@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="typesettings.css"/>
+
+# Anthony Glyn Burton
+Anthony Glyn Burton has worked as a dockmaster, bartender, hockey
+referee, baby food marketer, driving range ball picker-upper,
+journalist, editor, cultural events producer, and digital researcher. He
+is now a SSHRC Joseph Armand Bombardier Ph.D. scholar at Simon Fraser
+University's Communications Department and a doctoral researcher at the
+Digital Democracies Institute, located in Vancouver, BC. Anthony joined
+SFU after finishing his master's degree at York and
+[X University](https://yellowheadinstitute.org/2021/05/11/welcome-to-x-university-an-open-letter-to-the-community-from-indigenous-students/)'s Joint Program in Communication & Culture, where he
+first joined the Infoscape Lab and the Open Intelligence Lab (OILab). He
+received his H.B.A. in English and Philosophy from Victoria University
+in the University of Toronto and continues to research computation,
+politics, code, and rationality. His M.A. thesis, full C.V., and other
+links are below.
+
+-   [curriculum vitae](cv.html)
+-   [about](about.html)
+-   [a list of digital methods resources](digital-methods.html)
+-   [photography](https://www.flickr.com/people/holeyship/)
+-   [code](https://www.github.com/anthbrtn/)
+-   [tweets](https://www.twitter.com/anthbrtn/)
+-   [my zotero library](https://www.zotero.org/anthbrtn/library/)
