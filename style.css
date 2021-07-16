@@ -21,6 +21,7 @@ body {
 
 /* # Header # */
 .h1 {
+	font-family: 'Dosis';
   color: black;
   background-color: white;
   height: 1.6em;

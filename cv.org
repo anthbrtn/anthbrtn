@@ -2,7 +2,7 @@
 #+DATE:
 #+author:
 #+OPTIONS: toc:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css"\>
+#+HTML_HEAD: <style> @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap'); </style> <link rel="stylesheet" type="text/css" href="style.css"\>
 * General information
 *Citizenship*: Canadian
 
