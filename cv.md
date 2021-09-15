@@ -48,13 +48,13 @@ Toronto. 2017
 
 ### Refereed Publications
 
+---. 2021. \"Wojak's lament: Memetic excess and the NPC under network
+capitalism\". *Institute of Network Cultures Reader \#15 -- Critical
+Meme Research*. https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/.
+
 Burton, Anthony Glyn and Marc Tuters. \"The Rebel Yell: Alt-Right
 Audiences & Burlesque Traditionalism on YouTube\". *Canadian Journal of
 Communications*. In press, 2021.
-
----. \"Wojak's lament: Memetic excess and the NPC under network
-capitalism\". *Institute of Network Cultures Reader \#15 -- Critical
-Meme Research*. In press, 2021.
 
 Jucan, Ioana B., Roopa Vasudevan, Anthony Glyn Burton, Tong Wu &
 Yuguang Zhang. \"Left and Right, Or Being who/where you are". *Theater
