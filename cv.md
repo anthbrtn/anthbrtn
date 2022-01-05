@@ -37,7 +37,7 @@ Chang School of Continuing Education. 2019.
 **Honours Bachelor of Arts, Literature & Philosophy**. 
 
 High Distinction
-(equivalent to *summa cum laude*). 
+(*summa cum laude*). 
 
 Victoria College in the University of
 Toronto. 2017
@@ -48,34 +48,22 @@ Toronto. 2017
 
 ### Refereed Publications
 
-<<<<<<< HEAD
----. 2021. \"Wojak's lament: Memetic excess and the NPC under network
+Anthony Glyn Burton. 2021. \"Wojak's lament: Memetic excess and the NPC under network
 capitalism\". *Institute of Network Cultures Reader \#15 -- Critical
 Meme Research*. https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/.
 
-=======
->>>>>>> 39caa5e5f70a28a32e2bb183fd014b6e501618e5
-Burton, Anthony Glyn and Marc Tuters. \"The Rebel Yell: Alt-Right
-Audiences & Burlesque Traditionalism on YouTube\". *Canadian Journal of
-Communications*. In press, 2021.
+Tuters, Marc, and Anthony G. Burton. 2021. “The Rebel Yell: On YouTube’s Burlesque Traditonalists and Their Alt-Right Audiences.” *Canadian Journal of Communication* 46 (4). https://doi.org/10.22230/cjc.2021v46n4a3937.
 
-<<<<<<< HEAD
-=======
----. \"Wojak's lament: Memetic excess and the NPC under network
-capitalism\". *Institute of Network Cultures Reader \#15 -- Critical
-Meme Research*. In press, 2021.
+Jucan, Ioana B., Roopa Vasudevan, Anthony Glyn Burton, Tong Wu, and Yuguang (YG) Zhang. 2021. “Performing Left and Right.” *Theatre Journal 73* (3): E-9. https://doi.org/10.1353/tj.2021.0064.
 
->>>>>>> 39caa5e5f70a28a32e2bb183fd014b6e501618e5
-Jucan, Ioana B., Roopa Vasudevan, Anthony Glyn Burton, Tong Wu &
-Yuguang Zhang. \"Left and Right, Or Being who/where you are". *Theater
-Journal*. Video essay. In press, 2021.
+Keulenaar, Emillie de, Anthony Glyn Burton, and Ivan Kisjes. 2021. “Deplatforming, Demotion and Folk Theories of Big Tech Persecution.” *Fronteiras - Estudos Midiáticos 23* (2): 118–39. https://doi.org/10.4013/fem.2021.232.09.
 
-Elmer, Greg, Stephen J. Neville, Anthony Glyn Burton & Sabrina Ward-Kimola. "Zoombombing During a Global Pandemic". *Social Media and Society*. In press, 2021.
+Elmer, Greg, Stephen J. Neville, Anthony Burton, and Sabrina Ward-Kimola. 2021. “Zoombombing During a Global Pandemic.” *Social Media + Society 7* (3): 20563051211035356. https://doi.org/10.1177/20563051211035356.
 
 Burton, Anthony Glyn. \"Blackpill science: incels and the neoliberal program of
 masculinity.\" *Canadian Journal of Communications*. In revision, 2021.
 
----. "Misinformation’s migration: Cross-platform posting, YouTube, and the deep vernacular web in the 2020 U.S. Election". In Rogers, Richard and S. Niederer, eds. *Mainstreaming the Fringe*. In revision, 2021.
+---. "Misinformation’s migration: Cross-platform posting, YouTube, and the deep vernacular web in the 2020 U.S. Election". In Rogers, Richard and S. Niederer, eds. *Mainstreaming the Fringe*. In press, 2022.
 
 Elmer, Greg, Sabrina Ward-Kimola, & Anthony Glyn Burton. 2020.
 \"Crowdfunding during COVID-19: An international comparison of online
@@ -163,14 +151,18 @@ Why?\'](https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x).
 
 ### Presentations (**R** indicates refereed)
 
+---. 2021. “The aesthetics of rationality”. Conference presentation. *Intellectual Currents*. Simon Fraser University, October 27.
+
+Greg Elmer, Ganaele Langlois, Steve Neville, Tanner Mirrlees, Melody Devries, Anthony Burton, Marc Tuters, Ahmed Al-Rawi, and Sabrina Ward. Moderated by Fenwick McKelvey. 2021. *Alt/Right, Alt/Media: Encountering the alt-rights in Canada*. Panel presentation. *Canadian Disinformation Network*. December 3.
+
 **R** ---. 2021. \"Discourse machines: social platforms and the
 technical construction of misinformation.\" Conference presentation.
 *Canadian Communication Association annual conference*. Western
 University, June 4.
 
 **R** ---. 2021. \"'Cat-V Considered Harmful' Considered Harmful:
-Software minimalism and the ideology of computation\" Conference
-presentation. Intersections/Cross-Sections/. Ryerson & York University,
+Software minimalism and the ideology of computation\". Conference
+presentation. *Intersections/Cross-Sections*. Ryerson & York University,
 March 12.
 
 **R** Tuters, Marc and Anthony Burton. 2020. \"Rebels and their
@@ -229,12 +221,14 @@ University, May 2.
 
 ### Invited talks
 
----. 2021. Workshop on methods teaching. 10 February, CC9000 Advanced
-Research Methodologies, Ryerson University.
+---, Supriya Dwivedi, and Jane Lytvynenko. Moderated by Asmaa Malik. 2021. “Viral Threats to Journalists: From Talk Radio to Social Media to Zoombombing“. *Ryerson University School of Journalism Research Centre*. November 9.
+
+---. 2021. Workshop on methods teaching. CC9000 Advanced
+Research Methodologies, Ryerson University. 10 February.
 
 ---. 2020. Workshop on construction of digital research persona for
-investigative journalism. 17 November, Canadian Centre for Free
-Expression.
+investigative journalism. *Canadian Centre for Free
+Expression*. 17 November.
 
 ---. 2019. \"How to Study the Internet." Guest lecture presented in
 SOC482 Media Methods, March 21.
@@ -244,10 +238,10 @@ presented in SOC482 Media Methods, March 7.
 
 ### Datasets
 
-Burton, Anthony Glyn. (2020). Rebel Media contributors timeline (Version
+---. 2020. Rebel Media contributors timeline (Version
 0.1.0). \[Data set\]. Zenodo. doi.org/10.5281/zenodo.3634817
 
----. (2020). \#cdnpoli and the Twittersphere: User mentions during the
+---. 2020. \#cdnpoli and the Twittersphere: User mentions during the
 2019 Federal Election (Version 1.0.0) \[Data set\]. Zenodo.
 doi.org/10.5281/zenodo.3634154
 
@@ -255,7 +249,7 @@ doi.org/10.5281/zenodo.3634154
 
 ## Research Appointments
 
-**Research Associate**. Digital Democracies Group, Simon Fraser
+**Project Lead, _Beyond Verification_**. Digital Democracies Group, Simon Fraser
 University. 2020-.
 
 **Co-founder**. Digital Citizenship Cultures Initiative, Ryerson
