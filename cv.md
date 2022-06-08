@@ -95,6 +95,20 @@ Culture](https://quillandquire.com/review/getting-a-life-the-social-worlds-of-ge
 
 ### Reports
 
+     Aengus Bridgman Mathieu Lavigne Melissa Baker Thomas Bergeron Danielle Bohonos
+    Anthony Burton Katharine McCoy
+    Mackenzie Hart
+    Mathieu Lavault
+    Rupinder Liddar
+    Pangying Peng
+    Adelina Petit-Vouriot
+    Christopher Ross Phaedra de Saint-rome
+    Jaclyn Victor
+    Taylor Owen
+    Peter John Loewen
+
+Bridgman, Aengus, Mathieu Lavigne, Melissa Baker, Thomas Bergeron, Danielle Bohonos, Anthony Burton, Katharine McCoy, Mackenzie Hart, Mathieu Lavault, Rupinder Liddar, Pangying Peng, Adelina Petit-Vouriot, Christopher Ross, Phaedra de Saint-rome, Jaclyn Victor, Taylor Owen, Peter John Loewen. “Mis- and Disinformation in the 2021 Canadian Federal Election.” OSF Preprints. June 8. doi:10.31219/osf.io/ubfmx.
+
 de Keulenaar, Emillie, Ivan Kisjes. Anthony G. Burton, Jasper van der
 Heide, Dieuwertje Luitse, Eleonora Cappuccio, Guilherme Appolinário,
 Narzanin Massoumi, Tom Mills, Amy Harris, Jörn Preuß. 2020. "Demoting,
