@@ -1,6 +1,7 @@
 ---
 title: Anthony Glyn Burton's curriculum vitae
 ---
+<style>width: 800px;</style>
 
 # General information
 
@@ -47,6 +48,8 @@ Toronto. 2017
 ## Publications
 
 ### Refereed Publications
+
+Elmer, Greg and Anthony G. Burton. "Rebel personalities: Canada’s far-right media." *First Monday* 27 (9). https://firstmonday.org/ojs/index.php/fm/article/view/12546
 
 Anthony Glyn Burton. 2021. \"Wojak's lament: Memetic excess and the NPC under network
 capitalism\". *Institute of Network Cultures Reader \#15 -- Critical
