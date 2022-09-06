@@ -1,7 +1,7 @@
 ---
 title: Anthony Glyn Burton's curriculum vitae
 ---
-<style>width: 800px;</style>
+<div width=800px>
 
 # General information
 
@@ -49,7 +49,14 @@ Toronto. 2017
 
 ### Refereed Publications
 
-Elmer, Greg and Anthony G. Burton. "Rebel personalities: Canada’s far-right media." *First Monday* 27 (9). https://firstmonday.org/ojs/index.php/fm/article/view/12546
+Anthony G. Burton et. al. 2022. *Algorithmic Authenticity*. meson press, Leuphana. In review.
+
+Burton, Anthony Glyn. \"Blackpill science: incels and the neoliberal program of
+masculinity.\" *Canadian Journal of Communications*. In press, 2022.
+
+---. "Misinformation’s migration: Cross-platform posting, YouTube, and the deep vernacular web in the 2020 U.S. Election". In Rogers, Richard and S. Niederer, eds. *Mainstreaming the Fringe*. Amsterdam University Press. In press, 2022.
+
+Elmer, Greg and Anthony G. Burton. 2022. "Rebel personalities: Canada’s far-right media." *First Monday* 27 (9). https://firstmonday.org/ojs/index.php/fm/article/view/12546
 
 Anthony Glyn Burton. 2021. \"Wojak's lament: Memetic excess and the NPC under network
 capitalism\". *Institute of Network Cultures Reader \#15 -- Critical
@@ -62,11 +69,6 @@ Jucan, Ioana B., Roopa Vasudevan, Anthony Glyn Burton, Tong Wu, and Yuguang (YG)
 Keulenaar, Emillie de, Anthony Glyn Burton, and Ivan Kisjes. 2021. “Deplatforming, Demotion and Folk Theories of Big Tech Persecution.” *Fronteiras - Estudos Midiáticos 23* (2): 118–39. https://doi.org/10.4013/fem.2021.232.09.
 
 Elmer, Greg, Stephen J. Neville, Anthony Burton, and Sabrina Ward-Kimola. 2021. “Zoombombing During a Global Pandemic.” *Social Media + Society 7* (3): 20563051211035356. https://doi.org/10.1177/20563051211035356.
-
-Burton, Anthony Glyn. \"Blackpill science: incels and the neoliberal program of
-masculinity.\" *Canadian Journal of Communications*. In revision, 2021.
-
----. "Misinformation’s migration: Cross-platform posting, YouTube, and the deep vernacular web in the 2020 U.S. Election". In Rogers, Richard and S. Niederer, eds. *Mainstreaming the Fringe*. In press, 2022.
 
 Elmer, Greg, Sabrina Ward-Kimola, & Anthony Glyn Burton. 2020.
 \"Crowdfunding during COVID-19: An international comparison of online
@@ -445,3 +447,4 @@ Ryerson/York University. February 4 2019.
 
 MA Executive Representative. Communication & Culture Graduate Students\'
 Association. 2018-2020.
+</div>
