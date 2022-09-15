@@ -50,7 +50,7 @@ Toronto. 2017
 
 ### Refereed Publications
 
-Anthony G. Burton et. al. 2022. *Algorithmic Authenticity*. meson press, Leuphana. In review.
+Burton, Anthony Glyn et. al. 2022. *Algorithmic Authenticity*. meson press, Leuphana. In review.
 
 Burton, Anthony Glyn. \"Blackpill science: incels and the neoliberal program of
 masculinity.\" *Canadian Journal of Communications*. In press, 2022.
@@ -59,7 +59,7 @@ masculinity.\" *Canadian Journal of Communications*. In press, 2022.
 
 Elmer, Greg and Anthony G. Burton. 2022. "Rebel personalities: Canada’s far-right media." *First Monday* 27 (9). https://firstmonday.org/ojs/index.php/fm/article/view/12546
 
-Anthony Glyn Burton. 2021. \"Wojak's lament: Memetic excess and the NPC under network
+Burton, Anthony Glyn. 2021. \"Wojak's lament: Memetic excess and the NPC under network
 capitalism\". *Institute of Network Cultures Reader \#15 -- Critical
 Meme Research*. https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/.
 
