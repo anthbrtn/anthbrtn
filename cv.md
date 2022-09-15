@@ -284,7 +284,9 @@ doi.org/10.5281/zenodo.3634154
 
 ## Research Appointments
 
-**Project Lead, *Beyond Verification***. Digital Democracies Group,
+**Graduate Fellow, *Data Fluencies***. The Andrew F. Mellon Foundation and the Digital Democracies Institute, Simon Fraser University. 2022-
+
+**Project Lead, *Beyond Verification***. Digital Democracies Institute,
 Simon Fraser University. 2020-.
 
 **Co-founder**. Digital Citizenship Cultures Initiative, Ryerson
