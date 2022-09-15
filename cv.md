@@ -1,7 +1,4 @@
----
-title: Anthony Glyn Burton's curriculum vitae
----
-<link rel="stylesheet" type="text/css" href="typesettings.css"/>
+`<link rel="stylesheet" type="text/css" href="typesettings.css"/>`{=html}
 
 # General information
 
@@ -24,24 +21,23 @@ Entrance with Provost\'s Prize of Distinction and SSHRC CGS Doctoral
 Scholarship.
 
 **Master of Arts, Communication & Culture**. Ryerson University & York
-University. 2020. 
+University. 2020.
 
-*Thesis title*: \"I would do anything to not call this place home: The black pill, involuntary celibacy, and the neoliberal male grasp in digital incel communities.\" 
+*Thesis title*: \"I would do anything to not call this place home: The
+black pill, involuntary celibacy, and the neoliberal male grasp in
+digital incel communities.\"
 
 Award for Outstanding Thesis, nominated.
 
-**Graduate Professional Development in Teaching Program**, Level 1. 
+**Graduate Professional Development in Teaching Program**, Level 1.
 
-The
-Chang School of Continuing Education. 2019.
+The Chang School of Continuing Education. 2019.
 
-**Honours Bachelor of Arts, Literature & Philosophy**. 
+**Honours Bachelor of Arts, Literature & Philosophy**.
 
-High Distinction
-(*summa cum laude*). 
+High Distinction (*summa cum laude*).
 
-Victoria College in the University of
-Toronto. 2017
+Victoria College in the University of Toronto. 2017
 
 # Professional Contributions
 
@@ -49,40 +45,59 @@ Toronto. 2017
 
 ### Refereed Publications
 
-Burton, Anthony Glyn et. al. 2022. *Algorithmic Authenticity*. meson press, Leuphana. In review.
+Burton, Anthony Glyn et. al. 2022. *Algorithmic Authenticity*. meson
+press, Leuphana. In review.
 
-Burton, Anthony Glyn. \"Blackpill science: incels and the neoliberal program of
-masculinity.\" *Canadian Journal of Communications*. In press, 2022.
+Burton, Anthony Glyn. \"Blackpill science: incels and the neoliberal
+program of masculinity.\" *Canadian Journal of Communications*. In
+press, 2022.
 
----. "Misinformation’s migration: Cross-platform posting, YouTube, and the deep vernacular web in the 2020 U.S. Election". In Rogers, Richard and S. Niederer, eds. *Mainstreaming the Fringe*. Amsterdam University Press. In press, 2022.
+---. "Misinformation's migration: Cross-platform posting, YouTube, and
+the deep vernacular web in the 2020 U.S. Election". In Rogers, Richard
+and S. Niederer, eds. *Mainstreaming the Fringe*. Amsterdam University
+Press. In press, 2022.
 
-Elmer, Greg and Anthony G. Burton. 2022. "Rebel personalities: Canada’s far-right media." *First Monday* 27 (9). https://firstmonday.org/ojs/index.php/fm/article/view/12546
+Elmer, Greg and Anthony G. Burton. 2022. "Rebel personalities: Canada's
+far-right media." *First Monday* 27 (9).
+https://firstmonday.org/ojs/index.php/fm/article/view/12546
 
-Burton, Anthony Glyn. 2021. \"Wojak's lament: Memetic excess and the NPC under network
-capitalism\". *Institute of Network Cultures Reader \#15 -- Critical
-Meme Research*. https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/.
+Burton, Anthony Glyn. 2021. \"Wojak's lament: Memetic excess and the NPC
+under network capitalism\". *Institute of Network Cultures Reader #15 --
+Critical Meme Research*.
+https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/.
 
-Tuters, Marc, and Anthony G. Burton. 2021. “The Rebel Yell: On YouTube’s Burlesque Traditonalists and Their Alt-Right Audiences.” *Canadian Journal of Communication* 46 (4). https://doi.org/10.22230/cjc.2021v46n4a3937.
+Tuters, Marc, and Anthony G. Burton. 2021. "The Rebel Yell: On YouTube's
+Burlesque Traditonalists and Their Alt-Right Audiences." *Canadian
+Journal of Communication* 46 (4).
+https://doi.org/10.22230/cjc.2021v46n4a3937.
 
-Jucan, Ioana B., Roopa Vasudevan, Anthony Glyn Burton, Tong Wu, and Yuguang (YG) Zhang. 2021. “Performing Left and Right.” *Theatre Journal 73* (3): E-9. https://doi.org/10.1353/tj.2021.0064.
+Jucan, Ioana B., Roopa Vasudevan, Anthony Glyn Burton, Tong Wu, and
+Yuguang (YG) Zhang. 2021. "Performing Left and Right." *Theatre Journal
+73* (3): E-9. https://doi.org/10.1353/tj.2021.0064.
 
-Keulenaar, Emillie de, Anthony Glyn Burton, and Ivan Kisjes. 2021. “Deplatforming, Demotion and Folk Theories of Big Tech Persecution.” *Fronteiras - Estudos Midiáticos 23* (2): 118–39. https://doi.org/10.4013/fem.2021.232.09.
+Keulenaar, Emillie de, Anthony Glyn Burton, and Ivan Kisjes. 2021.
+"Deplatforming, Demotion and Folk Theories of Big Tech Persecution."
+*Fronteiras - Estudos Midiáticos 23* (2): 118--39.
+https://doi.org/10.4013/fem.2021.232.09.
 
-Elmer, Greg, Stephen J. Neville, Anthony Burton, and Sabrina Ward-Kimola. 2021. “Zoombombing During a Global Pandemic.” *Social Media + Society 7* (3): 20563051211035356. https://doi.org/10.1177/20563051211035356.
+Elmer, Greg, Stephen J. Neville, Anthony Burton, and Sabrina
+Ward-Kimola. 2021. "Zoombombing During a Global Pandemic." *Social
+Media + Society 7* (3): 20563051211035356.
+https://doi.org/10.1177/20563051211035356.
 
 Elmer, Greg, Sabrina Ward-Kimola, & Anthony Glyn Burton. 2020.
 \"Crowdfunding during COVID-19: An international comparison of online
 fundraising.\" *First Monday*, 25(11).
 <https://firstmonday.org/ojs/index.php/fm/article/view/10869>
 
-Burton, Anthony Glyn and Dimitri Koehorst. 2020. \"The Spread of Political
-Misinformation on Online Subcultural Platforms\". *Harvard
+Burton, Anthony Glyn and Dimitri Koehorst. 2020. \"The Spread of
+Political Misinformation on Online Subcultural Platforms\". *Harvard
 Misinformation Review*.
 <https://misinforeview.hks.harvard.edu/article/research-note-the-spread-of-political-misinformation-on-online-subcultural-platforms/>.
 
-Burton, Anthony Glyn. 2019. \"Being in/of the Network: The Chad Meme as Digital
-Subject\". *To Be Decided: Journal of Interdisciplinary Theory*. 4 (2):
-8.
+Burton, Anthony Glyn. 2019. \"Being in/of the Network: The Chad Meme as
+Digital Subject\". *To Be Decided: Journal of Interdisciplinary Theory*.
+4 (2): 8.
 
 ---. 2016. \"The Production of Society: Social Cohesion, Newspapers, and
 Social Media\". *ImagiNATIONS* 4 (1): 57--70.
@@ -100,7 +115,12 @@ Culture](https://quillandquire.com/review/getting-a-life-the-social-worlds-of-ge
 
 ### Reports
 
-Bridgman, Aengus, Mathieu Lavigne, Melissa Baker, Thomas Bergeron, Danielle Bohonos, Anthony Burton, Katharine McCoy, Mackenzie Hart, Mathieu Lavault, Rupinder Liddar, Pangying Peng, Adelina Petit-Vouriot, Christopher Ross, Phaedra de Saint-rome, Jaclyn Victor, Taylor Owen, Peter John Loewen. “Mis- and Disinformation in the 2021 Canadian Federal Election.” OSF Preprints. June 8. doi:10.31219/osf.io/ubfmx.
+Bridgman, Aengus, Mathieu Lavigne, Melissa Baker, Thomas Bergeron,
+Danielle Bohonos, Anthony Burton, Katharine McCoy, Mackenzie Hart,
+Mathieu Lavault, Rupinder Liddar, Pangying Peng, Adelina Petit-Vouriot,
+Christopher Ross, Phaedra de Saint-rome, Jaclyn Victor, Taylor Owen,
+Peter John Loewen. "Mis- and Disinformation in the 2021 Canadian Federal
+Election." OSF Preprints. June 8. doi:10.31219/osf.io/ubfmx.
 
 de Keulenaar, Emillie, Ivan Kisjes. Anthony G. Burton, Jasper van der
 Heide, Dieuwertje Luitse, Eleonora Cappuccio, Guilherme Appolinário,
@@ -158,9 +178,14 @@ Why?\'](https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x).
 
 ### Presentations (**R** indicates refereed)
 
----. 2021. “The aesthetics of rationality”. Conference presentation. *Intellectual Currents*. Simon Fraser University, October 27.
+---. 2021. "The aesthetics of rationality". Conference presentation.
+*Intellectual Currents*. Simon Fraser University, October 27.
 
-Greg Elmer, Ganaele Langlois, Steve Neville, Tanner Mirrlees, Melody Devries, Anthony Burton, Marc Tuters, Ahmed Al-Rawi, and Sabrina Ward. Moderated by Fenwick McKelvey. 2021. *Alt/Right, Alt/Media: Encountering the alt-rights in Canada*. Panel presentation. *Canadian Disinformation Network*. December 3.
+Greg Elmer, Ganaele Langlois, Steve Neville, Tanner Mirrlees, Melody
+Devries, Anthony Burton, Marc Tuters, Ahmed Al-Rawi, and Sabrina Ward.
+Moderated by Fenwick McKelvey. 2021. *Alt/Right, Alt/Media: Encountering
+the alt-rights in Canada*. Panel presentation. *Canadian Disinformation
+Network*. December 3.
 
 **R** ---. 2021. \"Discourse machines: social platforms and the
 technical construction of misinformation.\" Conference presentation.
@@ -175,7 +200,7 @@ March 12.
 **R** Tuters, Marc and Anthony Burton. 2020. \"Rebels and their
 Followers: YouTube Pundits and the War on \'Social Justice\'\".
 Conference presentation. *MAPD 2020 (Multidisciplinary Approaches to
-Political Discourse) \#3: Responding to new challenges*. University of
+Political Discourse) #3: Responding to new challenges*. University of
 Liverpool, 25-26 June 2020. Postponed due to COVID-19.
 
 **R** Burton, Anthony G. 2020. \"The grammar of embodiment: White noise,
@@ -228,14 +253,17 @@ University, May 2.
 
 ### Invited talks
 
----, Supriya Dwivedi, and Jane Lytvynenko. Moderated by Asmaa Malik. 2021. “Viral Threats to Journalists: From Talk Radio to Social Media to Zoombombing“. *Ryerson University School of Journalism Research Centre*. November 9.
+---, Supriya Dwivedi, and Jane Lytvynenko. Moderated by Asmaa Malik.
+2021. "Viral Threats to Journalists: From Talk Radio to Social Media to
+Zoombombing". *Ryerson University School of Journalism Research Centre*.
+November 9.
 
----. 2021. Workshop on methods teaching. CC9000 Advanced
-Research Methodologies, Ryerson University. 10 February.
+---. 2021. Workshop on methods teaching. CC9000 Advanced Research
+Methodologies, Ryerson University. 10 February.
 
 ---. 2020. Workshop on construction of digital research persona for
-investigative journalism. *Canadian Centre for Free
-Expression*. 17 November.
+investigative journalism. *Canadian Centre for Free Expression*. 17
+November.
 
 ---. 2019. \"How to Study the Internet." Guest lecture presented in
 SOC482 Media Methods, March 21.
@@ -245,19 +273,19 @@ presented in SOC482 Media Methods, March 7.
 
 ### Datasets
 
----. 2020. Rebel Media contributors timeline (Version
-0.1.0). \[Data set\]. Zenodo. doi.org/10.5281/zenodo.3634817
+---. 2020. Rebel Media contributors timeline (Version 0.1.0). \[Data
+set\]. Zenodo. doi.org/10.5281/zenodo.3634817
 
----. 2020. \#cdnpoli and the Twittersphere: User mentions during the
-2019 Federal Election (Version 1.0.0) \[Data set\]. Zenodo.
+---. 2020. #cdnpoli and the Twittersphere: User mentions during the 2019
+Federal Election (Version 1.0.0) \[Data set\]. Zenodo.
 doi.org/10.5281/zenodo.3634154
 
 # Research and Teaching Appointments
 
 ## Research Appointments
 
-**Project Lead, _Beyond Verification_**. Digital Democracies Group, Simon Fraser
-University. 2020-.
+**Project Lead, *Beyond Verification***. Digital Democracies Group,
+Simon Fraser University. 2020-.
 
 **Co-founder**. Digital Citizenship Cultures Initiative, Ryerson
 University. With Drs. Greg Elmer and Ganaele Langlois. 2019-.
@@ -306,7 +334,9 @@ Strand, Victoria College\'s Student Newspaper. 2016.
 
 # Software Development
 
-**kofi**. A web application for editing markdown files hosted on a server's native filesystem. Built with React and Node.js. Source code available at <https://github.com/anthbrtn/kofi>.
+**kofi**. A web application for editing markdown files hosted on a
+server's native filesystem. Built with React and Node.js. Source code
+available at <https://github.com/anthbrtn/kofi>.
 
 **gofindme**. A python-based web scraper for gofundme.com campaigns.
 Tracks campaign information, donations, and comments. Source code
@@ -447,4 +477,6 @@ Ryerson/York University. February 4 2019.
 
 MA Executive Representative. Communication & Culture Graduate Students\'
 Association. 2018-2020.
+```{=html}
 </div>
+```
