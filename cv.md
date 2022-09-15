@@ -1,7 +1,6 @@
 ---
 title: Anthony Glyn Burton's curriculum vitae
 ---
-<div width=800px>
 <link rel="stylesheet" type="text/css" href="typesettings.css"/>
 
 # General information
