@@ -18,6 +18,8 @@
 Entrance with Provost\'s Prize of Distinction and SSHRC CGS Doctoral
 Scholarship.
 
+**Invited Participant.** Stanford-Leuphana Summer Academy, "Scale". June 2022.
+
 **Master of Arts, Communication & Culture**. Toronto Metropolitan University & York
 University. 2020.
 
