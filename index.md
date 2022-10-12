@@ -3,7 +3,7 @@
 # Anthony Glyn Burton
 Anthony has been a dockmaster, bartender, hockey
 referee, baby food marketer, driving range ball picker-upper,
-journalist, editor, and cultural events producer. Now he researches computation, technology, and conservative politics at SFU's Digital Democracies Institute, and is writing his dissertation on the anxieties of optimization. 
+journalist, editor, and cultural events producer. Now he researches computation, technology, and fascism at SFU's Digital Democracies Institute, and is writing his dissertation on the anxieties of optimization. 
 
 He joined
 SFU after finishing his master's degree at York and
@@ -12,7 +12,6 @@ first began working with the [Infoscape Lab](https://infoscapelab.ca/) and the [
 
 ## More about Anthony
 -   [curriculum vitae](cv.html)
--   [about](about.html)
 -   [code](https://www.gitlab.com/anthbrtn/)
 -   [tweets](https://www.twitter.com/anthbrtn/)
 

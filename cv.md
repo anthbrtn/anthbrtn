@@ -4,7 +4,7 @@
 
 **Citizenship**: Canadian
 
-**Languages**: English and French
+**Languages**: English, French, Python, and Javascript
 
 **Tel**: +1 (647) 234 8639
 
@@ -12,15 +12,13 @@
 
 **ORCID iD**: <https://orcid.org/0000-0001-6474-0313>
 
-**Git**: <https://github.com/anthbrtn>
-
 # Education
 
 **Doctor of Philosophy, Communications.** Simon Fraser University. 2024.
 Entrance with Provost\'s Prize of Distinction and SSHRC CGS Doctoral
 Scholarship.
 
-**Master of Arts, Communication & Culture**. Ryerson University & York
+**Master of Arts, Communication & Culture**. Toronto Metropolitan University & York
 University. 2020.
 
 *Thesis title*: \"I would do anything to not call this place home: The
@@ -194,7 +192,7 @@ University, June 4.
 
 **R** ---. 2021. \"'Cat-V Considered Harmful' Considered Harmful:
 Software minimalism and the ideology of computation\". Conference
-presentation. *Intersections/Cross-Sections*. Ryerson & York University,
+presentation. *Intersections/Cross-Sections*. Toronto Metropolitan & York University,
 March 12.
 
 **R** Tuters, Marc and Anthony Burton. 2020. \"Rebels and their
@@ -214,7 +212,7 @@ Cancelled due to COVID-19.
 
 **R** ---. \"'Alt-right' news night: The politics of microcelebrity on
 YouTube\". Conference presentation. *Changing the Current:
-Intersections/Cross-Sections*. Ryerson & York University, March 7.
+Intersections/Cross-Sections*. Toronto Metropolitan & York University, March 7.
 
 **R** ---. 2020. \"The scraped social: towards a methodological bridging
 of discourse and the digital.\" Conference presentation. *Beyond
@@ -228,7 +226,7 @@ February 21.
 
 Burton, Anthony Glyn. 2019. "What Platforms Want: 'Incels' and the
 digital community as archive." Conference presentation. *Possible
-Worlds*. Ryerson University, December 16.
+Worlds*. Toronto Metropolitan University, December 16.
 
 **R** ---. 2019. "Hearkening towards the object: Understanding the
 mediation of communication in the digital far-right." Conference
@@ -236,10 +234,10 @@ presentation. *Future Communications.* York University, December 13.
 
 ---. 2019. \"Channel surfing: YouTube, Rebel Media, and politicized
 platform networks.\" Conference presentation. *Pursuing Critical Media &
-Technology Studies.* Ryerson University, November 5.
+Technology Studies.* Toronto Metropolitan University, November 5.
 
 ---. 2019. \"Digital Cultures of Citizenship.\" Poster Session. *Rubix
-Research Festival*. Ryerson University, November 4.
+Research Festival*. Toronto Metropolitan University, November 4.
 
 **R** ---. 2019. \"Digital Characters, Digital Community: The Chad Meme
 as Community Member in Online Incel Spaces\". Conference presentation.
@@ -255,11 +253,11 @@ University, May 2.
 
 ---, Supriya Dwivedi, and Jane Lytvynenko. Moderated by Asmaa Malik.
 2021. "Viral Threats to Journalists: From Talk Radio to Social Media to
-Zoombombing". *Ryerson University School of Journalism Research Centre*.
+Zoombombing". *Toronto Metropolitan University School of Journalism Research Centre*.
 November 9.
 
 ---. 2021. Workshop on methods teaching. CC9000 Advanced Research
-Methodologies, Ryerson University. 10 February.
+Methodologies, Toronto Metropolitan University. 10 February.
 
 ---. 2020. Workshop on construction of digital research persona for
 investigative journalism. *Canadian Centre for Free Expression*. 17
@@ -289,10 +287,10 @@ doi.org/10.5281/zenodo.3634154
 **Project Lead, *Beyond Verification***. Digital Democracies Institute,
 Simon Fraser University. 2020-.
 
-**Co-founder**. Digital Citizenship Cultures Initiative, Ryerson
+**Co-founder**. Digital Citizenship Cultures Initiative, Toronto Metropolitan
 University. With Drs. Greg Elmer and Ganaele Langlois. 2019-.
 
-**Research Associate**. Infoscape Research Lab, Ryerson University.
+**Research Associate**. Infoscape Research Lab, Toronto Metropolitan University.
 2019-.
 
 **Research Associate**. Open Intelligence Lab, University of Amsterdam.
@@ -302,7 +300,7 @@ University. With Drs. Greg Elmer and Ganaele Langlois. 2019-.
 Amsterdam. 2019.
 
 **Graduate Assistant**. Department of Politics & Public Administration,
-Ryerson University. 2019.
+Toronto Metropolitan University. 2019.
 
 **Research Assistant**. Department of Political Science, University of
 Toronto. 2017.
@@ -324,9 +322,9 @@ Initiative Summer School. July 2019.
 ## Teaching Assistantships
 
 **CC8849 Selected Topics in PinP: Digital Methods**. Joint Program in
-Communication & Culture, Ryerson & York University. 2019.
+Communication & Culture, Toronto Metropolitan & York University. 2019.
 
-**SOC482 Media Methods**. Sociology Department, Ryerson University.
+**SOC482 Media Methods**. Sociology Department, Toronto Metropolitan University.
 2019.
 
 ## Extracurricular Teaching
@@ -369,7 +367,7 @@ finder](https://github.com/junegunn/fzf). Source code available at
 <https://gitlab.com/anthbrtn/fzf-menus>.
 
 **Digital Citizenship Cultures Initiative website**. Website
-accompanying the Digital Citizenship Cultures research group at Ryerson
+accompanying the Digital Citizenship Cultures research group at Toronto Metropolitan
 University\'s Infoscape Lab. Founded initiative with Drs. Greg Elmer and
 Ganaele Langlois. Website available at <https://dcc.infoscapelab.ca>.
 
@@ -395,7 +393,7 @@ hacked by 'Zoom bombers'. *Global News*.
 <https://globalnews.ca/news/7621278/queens-university-lecture-zoom-bombers/>
 
 Interview about misinformation news in Canadian "new right new media".
-Do Couto, Sarah. August 2 2020. 'Fullish Disclosure.' *Ryerson Review of
+Do Couto, Sarah. August 2 2020. 'Fullish Disclosure.' *Toronto Metropolitan Review of
 Journalism*. <https://rrj.ca/fullish-disclosure/>
 
 Interview about the proliferation of Zoombombing during COVID-19
@@ -408,7 +406,7 @@ YouTube took it down.' *CBC News*.
 <https://www.cbc.ca/news/technology/alt-tech-platforms-resurface-plandemic-1.5577013>
 
 Discussion about fake news and Canada's new right new media on the
-Ryerson Review of Journalism's *Pull Quotes* podcast. Fraser, Ashley,
+Toronto Metropolitan Review of Journalism's *Pull Quotes* podcast. Fraser, Ashley,
 and Tanja Saric. 7 November 2019. 'Pull Quotes Season Three, Episode
 Two: How Media Professionals Adapt to Challenging Misinformation'. *Pull
 Quotes*. <https://rrj.ca/pull-quotes-season-three-episode-1-2/>.
@@ -419,14 +417,14 @@ Quotes*. <https://rrj.ca/pull-quotes-season-three-episode-1-2/>.
 
 *Digital Disinformation and Citizenship Network.* 2020-2021. Budget:
 \$350,000. Collaborator. Heritage Department, Government of Canada.
-Principal Investigator: Greg Elmer (Ryerson). Co-PIs: Wendy Chun (SFU),
+Principal Investigator: Greg Elmer (Toronto Metropolitan University). Co-PIs: Wendy Chun (SFU),
 Fenwick McKelvey (Concordia), Ahmed Al-Rawi (SFU), and Ganaele Langlois
 (York).
 
 *The Dark Web's impact on the 2019 Canadian Federal Election*.
 2019-2020. Budget: \$50,000. Co-Principal Investigator. Heritage
 Department, Government of Canada. Principal Investigator: Greg Elmer
-(Ryerson). Co-Principal Investigator: Marc Tuters (University of
+(Toronto Metropolitan University). Co-Principal Investigator: Marc Tuters (University of
 Amsterdam).
 
 # Awards and Honours
@@ -436,17 +434,17 @@ Amsterdam).
 **Social Sciences and Humanites Research Council of Canada Joseph
 Armand-Bombardier Doctoral Fellowship.** Federal. 2020-2023.
 
-**Ryerson University Thesis Gold Medal**. Nomination. Ryerson Unviersity
+**Toronto Metropolitan University Thesis Gold Medal**. Nomination. Toronto Metropolitan Unviersity
 Faculty of Arts. 2020.
 
 **Social Sciences and Humanities Research Council of Canada Graduate
 Masters Scholarship**. Federal. 2019-2020.
 
-**Public Scholar**. Ryerson University Faculty of Arts. 2019-2020.
+**Public Scholar**. Toronto Metropolitan University Faculty of Arts. 2019-2020.
 
 **Ontario Graduate Scholarship**. Provincial. 2019-2020. (Declined).
 
-**Ryerson Graduate Fellowship**. Program. 2018-2020. (Declined for
+**Toronto Metropolitan Graduate Fellowship**. Program. 2018-2020. (Declined for
 2019-2020).
 
 **Mitacs Globalink Research Award**. Project: \"Streams of the deep web:
@@ -467,13 +465,13 @@ Digital Democracies Institute, Vancouver, Canada and Associação de
 Pesquisas e Práticas em Humanidades, Porto Alegre, Brazil. 2021.
 
 Panel chair, *Intersections/Cross-Sections* Graduate Conference,
-Ryerson/York University. March 15 2020.
+Toronto Metropolitan  & York University. March 15 2020.
 
 Panel chair, *Future Communications* Graduate Conference, York
 University. December 13 2019.
 
 Panel chair, *Intersections/Cross-Sections* Graduate Conference,
-Ryerson/York University. February 4 2019.
+Toronto Metropolitan & York University. February 4 2019.
 
 ## Service to the University
 
