@@ -180,7 +180,7 @@ Why?\'](https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x).
 *Intellectual Currents*. Simon Fraser University, October 27.
 
 Greg Elmer, Ganaele Langlois, Steve Neville, Tanner Mirrlees, Melody
-Devries, Anthony Burton, Marc Tuters, Ahmed Al-Rawi, and Sabrina Ward.
+Devries, Anthony Burton, Sabrina Ward-Kimola, Marc Tuters, and Ahmed Al-Rawi.
 Moderated by Fenwick McKelvey. 2021. *Alt/Right, Alt/Media: Encountering
 the alt-rights in Canada*. Panel presentation. *Canadian Disinformation
 Network*. December 3.
