@@ -142,9 +142,11 @@ Amsterdam, July 21.
 
 ### Other Publications
 
+Burton, Anthony Glyn. 2022. "Jonathan Beller – Poetry Against Calamity: Decolonial Ecography and Post-Capitalist Economic Media." Digital Democracies Institute blog. June 28. <https://digitaldemocracies.org/jonathan-beller-poetry-against-calamity-decolonial-ecography-and-post-capitalist-economic-media/>. 
+
 Elmer, Greg, Anthony G. Burton, and Stephen J. Neville. 2020. "These
 researchers tracked down how hackers are disrupting Zoom chats." Global
-News. June 15, 2020. <https://globalnews.ca/news/7048850/zoom-hacking/>.
+News. June 15. <https://globalnews.ca/news/7048850/zoom-hacking/>.
 
 Elmer, Greg, Anthony G. Burton, and Stephen J. Neville. 2020.
 "Zoom-Bombings Disrupt Online Events with Racist and Misogynist
