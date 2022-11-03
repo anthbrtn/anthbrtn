@@ -438,7 +438,7 @@ Amsterdam).
 **Social Sciences and Humanites Research Council of Canada Joseph
 Armand-Bombardier Doctoral Fellowship.** Federal. 2020-2023.
 
-**Toronto Metropolitan University Thesis Gold Medal**. Nomination. Toronto Metropolitan Unviersity
+**Toronto Metropolitan University Thesis Gold Medal, Nomination**. Toronto Metropolitan Unviersity
 Faculty of Arts. 2020.
 
 **Social Sciences and Humanities Research Council of Canada Graduate
