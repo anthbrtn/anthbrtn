@@ -13,7 +13,7 @@ first began working with the [Infoscape Lab](https://infoscapelab.ca/) and the [
 ## More about Anthony
 -   [curriculum vitae](cv.html)
 -   [code](https://www.gitlab.com/anthbrtn/)
--   [tweets](https://www.twitter.com/anthbrtn/)
+-   [tweets](https://assemblag.es/@anthbrtn)
 
 ## Some resources
 -   [a list of digital methods resources](digital-methods.html)
