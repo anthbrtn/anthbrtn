@@ -23,7 +23,7 @@ Scholarship.
 **Master of Arts, Communication & Culture**. Toronto Metropolitan University & York
 University. 2020.
 
-*Thesis title*: \"I would do anything to not call this place home: The
+*Thesis title*: \"'I would do anything to not call this place home': The
 black pill, involuntary celibacy, and the neoliberal male grasp in
 digital incel communities.\"
 
@@ -45,17 +45,15 @@ Victoria College in the University of Toronto. 2017
 
 ### Refereed Publications
 
-Burton, Anthony Glyn et. al. 2022. *Algorithmic Authenticity*. meson
-press, Leuphana. In review.
+Burton, Anthony Glyn et. al. 2023. *Algorithmic Authenticity*. meson
+press, Leuphana. In press.
 
-Burton, Anthony Glyn. \"Blackpill science: incels and the neoliberal
-program of masculinity.\" *Canadian Journal of Communications*. In
-press, 2022.
+---. 2023. "When misinformation migrates: Cross-platform posting, YouTube, and
+the deep vernacular web". In Rogers, Richard ed. *The Propagation of Misinformation in Social Media
+A Cross-platform Analysis*. Amsterdam University
+Press. In press.
 
----. "Misinformation's migration: Cross-platform posting, YouTube, and
-the deep vernacular web in the 2020 U.S. Election". In Rogers, Richard
-and S. Niederer, eds. *Mainstreaming the Fringe*. Amsterdam University
-Press. In press, 2022.
+---. 2022. "Blackpill Science: Involuntary Celibacy, Rational Technique, and Economic Existence under Neoliberalism." *Canadian Journal of Communications*. 47:4, 676-701. 
 
 Elmer, Greg and Anthony G. Burton. 2022. "Rebel personalities: Canada's
 far-right media." *First Monday* 27 (9).
@@ -179,6 +177,11 @@ Why?\'](https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x).
 *The Outline*, June 13.
 
 ### Presentations (**R** indicates refereed)
+
+**R** ---. 2022. \"Limit functions: A media history of optimization.\" Conference presentation.
+*Canadian Communication Association annual conference*. York University, May 19.
+
+---. 2022. "The Agitational Style in Authoritarian Politics." Conference presentation. *Contested Freedoms*. Simon Fraser University, May 10.
 
 ---. 2021. "The aesthetics of rationality". Conference presentation.
 *Intellectual Currents*. Simon Fraser University, October 27.
