@@ -53,21 +53,19 @@ the deep vernacular web". In Rogers, Richard ed. *The Propagation of Misinforma
 A Cross-platform Analysis*. Amsterdam University
 Press. In press.
 
----. 2022. "Blackpill Science: Involuntary Celibacy, Rational Technique, and Economic Existence under Neoliberalism." *Canadian Journal of Communications*. 47:4, 676-701. 
+---. 2022. "Blackpill Science: Involuntary Celibacy, Rational Technique, and Economic Existence under Neoliberalism." *Canadian Journal of Communications 47* (4): 676-701. [https://doi.org/10.3138/cjc.2022-07-25](https://doi.org/10.3138/cjc.2022-07-25).
 
 Elmer, Greg and Anthony G. Burton. 2022. "Rebel personalities: Canada's
-far-right media." *First Monday* 27 (9).
-https://firstmonday.org/ojs/index.php/fm/article/view/12546
+far-right media." *First Monday* 27 (9). [https://doi.org/10.5210/fm.v27i5.12546](https://doi.org/10.5210/fm.v27i5.12546).
 
 Burton, Anthony Glyn. 2021. \"Wojak's lament: Memetic excess and the NPC
-under network capitalism\". *Institute of Network Cultures Reader #15 --
-Critical Meme Research*.
+under network capitalism\". *Critical Meme Reader: Global Mutations of the Viral Image*. 
 https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/.
 
 Tuters, Marc, and Anthony G. Burton. 2021. "The Rebel Yell: On YouTube's
 Burlesque Traditonalists and Their Alt-Right Audiences." *Canadian
-Journal of Communication* 46 (4).
-https://doi.org/10.22230/cjc.2021v46n4a3937.
+Journal of Communication* 46 (4): 757-776.
+[https://doi.org/10.22230/cjc.2021v46n4a3937](https://doi.org/10.22230/cjc.2021v46n4a3937).
 
 Jucan, Ioana B., Roopa Vasudevan, Anthony Glyn Burton, Tong Wu, and
 Yuguang (YG) Zhang. 2021. "Performing Left and Right." *Theatre Journal
