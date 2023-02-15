@@ -45,10 +45,12 @@ Victoria College in the University of Toronto. 2017
 
 ### Refereed Publications
 
-Burton, Anthony Glyn et. al. 2023. *Algorithmic Authenticity*. meson
+Burton, Anthony Glyn, Wendy Hui Kyong Chun and Liliana Bounegru, Melody Devries, Amy Harris, hannah holtzclaw, Ioana Jucan, Alex Juhasz,
+D. W. Kamish, Ganaele Langlois, Jasmine Proctor, Christine Tomlinson, Roopa Vasudevan,
+Esther Weltevrede. 2023. *Algorithmic Authenticity*. meson
 press, Leuphana. In press.
 
----. 2023. "When misinformation migrates: Cross-platform posting, YouTube, and
+Burton, Anthony Glyn. 2023. "When misinformation migrates: Cross-platform posting, YouTube, and
 the deep vernacular web". In Rogers, Richard ed. *The Propagation of Misinformation in Social Media
 A Cross-platform Analysis*. Amsterdam University
 Press. In press.
