@@ -155,18 +155,6 @@ Burton, Anthony G. and Jack Wilson. *Zygotian Solipsism: An
 Epistemic-Ontological Limit Case and Those Who Want to Live It.*
 Raleigh, USA: Non-Press, 2019.
 
-Burton, Anthony G. 2019. [\'This is where it
-starts\'](https://dcc.infoscapelab.ca/projects/ecosys/this-is-where-it-starts).
-*Digital Citizenship Cultures Initiative*. October 23.
-
----. 2019. [\'Canada\'s New Right New
-Mediasphere\'](https://dcc.infoscapelab.ca/projects/ecosystem/new-right-new-mediasphere/).
-*Digital Citizenship Cultures Initiative*. September 30.
-
----. 2019. [\'The Rebel
-Yell\'.](https://dcc.infoscapelab.ca/projects/ecosystem/the-rebel-yell/)
-*Digital Citizenship Cultures Initiative*. September 17 2019.
-
 Hagen, Sal, Anthony Glyn Burton, Jack Wilson and Marc Tuters. 2019.
 [\'Infinity\'s Abyss: An Overview of
 8chan\'](https://oilab.eu/infinitys-abyss-an-overview-of-8chan/.).
