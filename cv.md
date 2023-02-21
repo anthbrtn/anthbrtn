@@ -455,6 +455,8 @@ Epistolary Self-Construction". 2016.
 
 ## Service to Research
 
+Reviewer, New Media & Society; Canadian Journal of Communication
+
 Co-organizer, 3TRG (Technics, Techne and Technology Reading Group).
 Digital Democracies Institute, Vancouver, Canada and Associação de
 Pesquisas e Práticas em Humanidades, Porto Alegre, Brazil. 2021.
