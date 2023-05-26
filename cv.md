@@ -1,12 +1,43 @@
 <link rel="stylesheet" type="text/css" href="style.css"/>
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [General information](#general-information)
+- [Education](#education)
+- [Professional Contributions](#professional-contributions)
+    - [Publications](#publications)
+        - [Refereed Publications](#refereed-publications)
+        - [Book Reviews](#book-reviews)
+        - [Reports](#reports)
+        - [Other Publications](#other-publications)
+        - [Presentations (**R** indicates refereed)](#presentations-r-indicates-refereed)
+        - [Invited talks](#invited-talks)
+        - [Datasets](#datasets)
+- [Research and Teaching Appointments](#research-and-teaching-appointments)
+    - [Research Appointments](#research-appointments)
+    - [Project Leadership](#project-leadership)
+    - [Teaching Assistantships](#teaching-assistantships)
+    - [Extracurricular Teaching](#extracurricular-teaching)
+- [Software Development](#software-development)
+- [Media Interviews](#media-interviews)
+- [Research Support](#research-support)
+    - [External Research Grants](#external-research-grants)
+- [Awards and Honours](#awards-and-honours)
+- [Contributions to the Profession](#contributions-to-the-profession)
+    - [Service to Research](#service-to-research)
+    - [Service to the University](#service-to-the-university)
+
+<!-- markdown-toc end -->
+
+
 # General information
 
 **Citizenship**: Canadian
 
-**Languages**: English, French, Python, and Javascript
+**Languages**: English, French, Python, Javascript
 
-**Tel**: +1 (647) 234 8639
+<!-- **Tel**: +1 (647) 234 8639 -->
 
 **Email**: ab {at} anthbrtn.com
 
@@ -14,11 +45,10 @@
 
 # Education
 
-**Doctor of Philosophy, Communications.** Simon Fraser University. 2024.
-Entrance with Provost\'s Prize of Distinction and SSHRC CGS Doctoral
-Scholarship.
 
-**Invited Participant.** Stanford-Leuphana Summer Academy, "Scale". June 2022.
+**Doctor of Philosophy, Communications.** Simon Fraser University. 2024.
+Entrance with Provost\'s Prize of Distinction and Joseph Armand Bombardier SSHRC CGS Doctoral
+Scholarship.
 
 **Master of Arts, Communication & Culture**. Toronto Metropolitan University & York
 University. 2020.
@@ -53,7 +83,7 @@ press, Leuphana. In press.
 Burton, Anthony Glyn. 2023. "When misinformation migrates: Cross-platform posting, YouTube, and
 the deep vernacular web". In Rogers, Richard ed. *The Propagation of Misinformation in Social Media
 A Cross-platform Analysis*. Amsterdam University
-Press. In press.
+Press.
 
 ---. 2022. "Blackpill Science: Involuntary Celibacy, Rational Technique, and Economic Existence under Neoliberalism." *Canadian Journal of Communications 47* (4): 676-701. [https://doi.org/10.3138/cjc.2022-07-25](https://doi.org/10.3138/cjc.2022-07-25).
 
@@ -62,7 +92,7 @@ far-right media." *First Monday* 27 (9). [https://doi.org/10.5210/fm.v27i5.12546
 
 Burton, Anthony Glyn. 2021. \"Wojak's lament: Memetic excess and the NPC
 under network capitalism\". *Critical Meme Reader: Global Mutations of the Viral Image*. 
-https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/.
+[https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/](https://networkcultures.org/blog/publication/critical-meme-reader-global-mutations-of-the-viral-image/).
 
 Tuters, Marc, and Anthony G. Burton. 2021. "The Rebel Yell: On YouTube's
 Burlesque Traditonalists and Their Alt-Right Audiences." *Canadian
@@ -71,17 +101,17 @@ Journal of Communication* 46 (4): 757-776.
 
 Jucan, Ioana B., Roopa Vasudevan, Anthony Glyn Burton, Tong Wu, and
 Yuguang (YG) Zhang. 2021. "Performing Left and Right." *Theatre Journal
-73* (3): E-9. https://doi.org/10.1353/tj.2021.0064.
+73* (3): E-9. [https://doi.org/10.1353/tj.2021.0064](https://doi.org/10.1353/tj.2021.0064).
 
 Keulenaar, Emillie de, Anthony Glyn Burton, and Ivan Kisjes. 2021.
 "Deplatforming, Demotion and Folk Theories of Big Tech Persecution."
 *Fronteiras - Estudos Midiáticos 23* (2): 118--39.
-https://doi.org/10.4013/fem.2021.232.09.
+[https://doi.org/10.4013/fem.2021.232.09](https://doi.org/10.4013/fem.2021.232.09).
 
 Elmer, Greg, Stephen J. Neville, Anthony Burton, and Sabrina
 Ward-Kimola. 2021. "Zoombombing During a Global Pandemic." *Social
 Media + Society 7* (3): 20563051211035356.
-https://doi.org/10.1177/20563051211035356.
+[https://doi.org/10.1177/20563051211035356](https://doi.org/10.1177/20563051211035356).
 
 Elmer, Greg, Sabrina Ward-Kimola, & Anthony Glyn Burton. 2020.
 \"Crowdfunding during COVID-19: An international comparison of online
@@ -101,6 +131,9 @@ Digital Subject\". *To Be Decided: Journal of Interdisciplinary Theory*.
 Social Media\". *ImagiNATIONS* 4 (1): 57--70.
 
 ### Book Reviews
+
+
+Burton, Anthony Glyn. 2023. Book Review: Code: From Information Theory to French Theory. *New Media & Society*, May. https://doi.org/10.1177/14614448231173132.
 
 Burton, Anthony G. 2020. Review: Technologies of Speculation: The Limits
 of Knowledge in a Data-Driven Society. *International Journal of
@@ -166,7 +199,14 @@ Why?\'](https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x).
 
 ### Presentations (**R** indicates refereed)
 
-**R** ---. 2022. \"Limit functions: A media history of optimization.\" Conference presentation.
+**R** Burton, Anthony Glyn. 2023. \"Authentication and data subjectivity". Conference presentation.
+*Canadian Communication Association annual conference*. York University, May 30.
+
+**R** Burton, Anthony Glyn and Esther Weltevrede. 2023. \"Platform authentication and network temporalities". Conference presentation.
+*Mis/disinformation and the artifices of 
+authenticity and authentication. International Communication Association Pre-Conference*. York University, May 24.
+
+**R** Burton, Anthony Glyn. 2022. \"Limit functions: A media history of optimization.\" Conference presentation.
 *Canadian Communication Association annual conference*. York University, May 19.
 
 ---. 2022. "The Agitational Style in Authoritarian Politics." Conference presentation. *Contested Freedoms*. Simon Fraser University, May 10.
@@ -276,6 +316,10 @@ doi.org/10.5281/zenodo.3634154
 # Research and Teaching Appointments
 
 ## Research Appointments
+
+**Visiting researcher**. Chair of Digital Cultures, Technische Universitat Dresden. 2023.
+
+**Invited Participant.** Stanford-Leuphana Summer Academy, "Scale". June 2022.
 
 **Graduate Fellow, *Data Fluencies***. The Andrew F. Mellon Foundation and the Digital Democracies Institute, Simon Fraser University. 2022-
 
@@ -455,6 +499,9 @@ Epistolary Self-Construction". 2016.
 
 ## Service to Research
 
+Co-organizer, Mis/disinformation and the artifices of 
+authenticity and authentication. International Communication Association Pre-Conference, Toronto, Canada. May 24 2023.
+
 Reviewer, New Media & Society; Canadian Journal of Communication
 
 Co-organizer, 3TRG (Technics, Techne and Technology Reading Group).
@@ -471,6 +518,8 @@ Panel chair, *Intersections/Cross-Sections* Graduate Conference,
 Toronto Metropolitan & York University. February 4 2019.
 
 ## Service to the University
+
+Admissions committee gaduate representative. Simon Fraser University Department of Communications. 2023.
 
 MA Executive Representative. Communication & Culture Graduate Students\'
 Association. 2018-2020.
