@@ -401,7 +401,7 @@ Victoria College in the University of Toronto. 2017
 Burton, Anthony Glyn, Wendy Hui Kyong Chun and Liliana Bounegru, Melody Devries, Amy Harris, hannah holtzclaw, Ioana Jucan, Alex Juhasz,
 D. W. Kamish, Ganaele Langlois, Jasmine Proctor, Christine Tomlinson, Roopa Vasudevan,
 Esther Weltevrede. 2023. *Algorithmic Authenticity*. meson
-press, Leuphana. In press.
+press, Leuphana.
 
 Burton, Anthony Glyn. 2023. "When misinformation migrates: Cross-platform posting, YouTube, and
 the deep vernacular web". In Rogers, Richard ed. *The Propagation of Misinformation in Social Media
@@ -454,7 +454,6 @@ Digital Subject\". *To Be Decided: Journal of Interdisciplinary Theory*.
 Social Media\". *ImagiNATIONS* 4 (1): 57--70.
 
 ### Book Reviews
-
 
 Burton, Anthony Glyn. 2023. Book Review: Code: From Information Theory to French Theory. *New Media & Society*, May. https://doi.org/10.1177/14614448231173132.
 
@@ -522,14 +521,18 @@ Why?\'](https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x).
 
 ### Presentations (**R** indicates refereed)
 
-**R** Burton, Anthony Glyn. 2023. \"Authentication and data subjectivity". Conference presentation.
+**R** Burton, Anthony Glyn. 2023. \"Techno-politics of the Apocalypse". Conference presentation. *4S Society for Social Studies of Science annual conference*. University of Hawaii, November 8. 
+
+**R** ---. 2023. \"Cat-v Considered Harmful: techne, alienation, and software minimalism". Conference presentation. *SLSA 2023: Society for Literature, Science and the Arts annual conference*. Arizona State University, October 27.
+
+**R** ---. 2023. \"Authentication and data subjectivity". Conference presentation.
 *Canadian Communication Association annual conference*. York University, May 30.
 
-**R** Burton, Anthony Glyn and Esther Weltevrede. 2023. \"Platform authentication and network temporalities". Conference presentation.
+**R** --- and Esther Weltevrede. 2023. \"Platform authentication and network temporalities". Conference presentation.
 *Mis/disinformation and the artifices of 
 authenticity and authentication. International Communication Association Pre-Conference*. York University, May 24.
 
-**R** Burton, Anthony Glyn. 2022. \"Limit functions: A media history of optimization.\" Conference presentation.
+**R** ---. 2022. \"Limit functions: A media history of optimization.\" Conference presentation.
 *Canadian Communication Association annual conference*. York University, May 19.
 
 ---. 2022. "The Agitational Style in Authoritarian Politics." Conference presentation. *Contested Freedoms*. Simon Fraser University, May 10.
@@ -547,11 +550,6 @@ Network*. December 3.
 technical construction of misinformation.\" Conference presentation.
 *Canadian Communication Association annual conference*. Western
 University, June 4.
-
-**R** ---. 2021. \"'Cat-V Considered Harmful' Considered Harmful:
-Software minimalism and the ideology of computation\". Conference
-presentation. *Intersections/Cross-Sections*. Toronto Metropolitan & York University,
-March 12.
 
 **R** Tuters, Marc and Anthony Burton. 2020. \"Rebels and their
 Followers: YouTube Pundits and the War on \'Social Justice\'\".
