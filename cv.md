@@ -521,6 +521,8 @@ Why?\'](https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x).
 
 ### Presentations (**R** indicates refereed)
 
+**R** Burton, Anthony Glyn. 2024. \"First principles, mimesis, and Silicon Valley ideology". Conference presentation. *Society for Cinema & Media Studies annual conference*. Boston, U.S., March 17. 
+
 **R** Burton, Anthony Glyn. 2023. \"Techno-politics of the Apocalypse". Conference presentation. *4S Society for Social Studies of Science annual conference*. University of Hawaii, November 8. 
 
 **R** ---. 2023. \"Cat-v Considered Harmful: techne, alienation, and software minimalism". Conference presentation. *SLSA 2023: Society for Literature, Science and the Arts annual conference*. Arizona State University, October 27.
