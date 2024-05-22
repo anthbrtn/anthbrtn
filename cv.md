@@ -521,6 +521,10 @@ Why?\'](https://theoutline.com/post/4919/x-why-does-tech-love-the-letter-x).
 
 ### Presentations (**R** indicates refereed)
 
+**R** Burton, Anthony Glyn. 2024. \"Appification as authentication: the case of Tinder". Conference presentation. *Association of Internet Researchers annual conference*. Sheffield, U.K., October 30. 
+
+**R** Burton, Anthony Glyn. 2024. \"First principles and libertarian axiomatics". Conference presentation. *CONDUITS Graduate Conference*. Vancouver, Canada, May 3. 
+
 **R** Burton, Anthony Glyn. 2024. \"First principles, mimesis, and Silicon Valley ideology". Conference presentation. *Society for Cinema & Media Studies annual conference*. Boston, U.S., March 17. 
 
 **R** Burton, Anthony Glyn. 2023. \"Techno-politics of the Apocalypse". Conference presentation. *4S Society for Social Studies of Science annual conference*. University of Hawaii, November 8. 
@@ -608,6 +612,10 @@ Rhetoric in the Doug Ford Administration\". Conference presentation.
 University, May 2.
 
 ### Invited talks
+
+---. Moderated by Barry Truax.
+2024. "Communication as technocritique". *Simon Fraser University 50th Anniversary Symposium | Communication as Critique*.
+December 2.
 
 ---, Supriya Dwivedi, and Jane Lytvynenko. Moderated by Asmaa Malik.
 2021. "Viral Threats to Journalists: From Talk Radio to Social Media to
