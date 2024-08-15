@@ -691,6 +691,8 @@ Initiative Summer School. July 2019.
 
 ## Teaching Assistantships
 
+**CMNS202 Design and Method in Qualitative Communication Research**. School of Communication, Simon Fraser University. 2024.
+
 **CC8849 Selected Topics in PinP: Digital Methods**. Joint Program in
 Communication & Culture, Toronto Metropolitan & York University. 2019.
 
