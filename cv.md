@@ -648,6 +648,8 @@ doi.org/10.5281/zenodo.3634154
 
 ## Research Appointments
 
+**Invited Participant.** STS Summer School at Harvard. August 2023.
+
 **Visiting researcher**. Chair of Digital Cultures, Technische Universitat Dresden. 2023.
 
 **Invited Participant.** Stanford-Leuphana Summer Academy, "Scale". June 2022.
