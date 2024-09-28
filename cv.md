@@ -369,7 +369,7 @@ ul.sitemap-list a {
 # Education
 
 
-**Doctor of Philosophy, Communications.** Simon Fraser University. 2024.
+Currently: **Doctor of Philosophy, Communications.** Simon Fraser University.
 Entrance with Provost\'s Prize of Distinction and Joseph Armand Bombardier SSHRC CGS Doctoral
 Scholarship.
 
