@@ -325,14 +325,7 @@ ul.sitemap-list a {
 </style>
 
 # Anthony Glyn Burton
-Anthony has been a dockmaster, bartender, hockey
-referee, baby food marketer, driving range ball picker-upper,
-journalist, editor, and cultural events producer. Now he is a Mellon-SFU Fellow at the Digital Democracies Institute, and is writing his dissertation on the relationship between contemporary "theory", computation, and contemporary right-wing politics. 
-
-He joined
-SFU after finishing his master's degree at York and
-[X University](https://yellowheadinstitute.org/2021/05/11/welcome-to-x-university-an-open-letter-to-the-community-from-indigenous-students/)'s Joint Program in Communication & Culture, where he
-first began working with the [Infoscape Lab](https://infoscapelab.ca/) and the [Open Intelligence Lab (OILab)](https://oilab.eu/). He's got some links below, and this is the only place he'll ever write in the third person. 
+Anthony is a Mellon-SFU Fellow at the Digital Democracies Institute, and is writing his dissertation on the relationship between contemporary "theory", computation, and contemporary right-wing politics. 
 
 ## More about Anthony
 -   [curriculum vitae](cv.html)
