@@ -2,12 +2,12 @@
 
 /* who cares */
 
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
 body {
   color: black;
   background-color: white;
-  font-family: arial, helvetica, sans-serif;
+  font-family: Shippori Mincho, helvetica, sans-serif;
   font-size: 18px;  /* Enables font size scaling in MSIE */
   margin-left: auto;
   margin-right: auto;
@@ -398,6 +398,11 @@ Victoria College in the University of Toronto. 2017
 
 ### Refereed Publications
 
+Burton, Anthony Glyn. 2024. “Platform authentication: When is social
+
+Burton, Anthony Glyn and Esther Weltevrede. 2024. “Platform authentication: When is social
+media?” International Journal of Communication (forthcoming 2024).
+
 Burton, Anthony Glyn, Wendy Hui Kyong Chun and Liliana Bounegru, Melody Devries, Amy Harris, hannah holtzclaw, Ioana Jucan, Alex Juhasz,
 D. W. Kamish, Ganaele Langlois, Jasmine Proctor, Christine Tomlinson, Roopa Vasudevan,
 Esther Weltevrede. 2023. *Algorithmic Authenticity*. meson
@@ -434,6 +439,11 @@ Keulenaar, Emillie de, Anthony Glyn Burton, and Ivan Kisjes. 2021.
 Elmer, Greg, Stephen J. Neville, Anthony Burton, and Sabrina
 Ward-Kimola. 2021. "Zoombombing During a Global Pandemic." *Social
 Media + Society 7* (3): 20563051211035356.
+[https://doi.org/10.1177/20563051211035356](https://doi.org/10.1177/20563051211035356).
+
+Elmer, Greg, Sabrina Ward-Kimola, & Anthony Glyn Burton. 2020.
+\"Crowdfunding during COVID-19: An international comparison of online
+fundraising.\" *First Monday*, 25(11).
 [https://doi.org/10.1177/20563051211035356](https://doi.org/10.1177/20563051211035356).
 
 Elmer, Greg, Sabrina Ward-Kimola, & Anthony Glyn Burton. 2020.
@@ -841,11 +851,6 @@ Reviewer, New Media & Society; Canadian Journal of Communication
 
 Co-organizer, 3TRG (Technics, Techne and Technology Reading Group).
 Digital Democracies Institute, Vancouver, Canada and Associação de
-Pesquisas e Práticas em Humanidades, Porto Alegre, Brazil. 2021.
-
-Panel chair, *Intersections/Cross-Sections* Graduate Conference,
-Toronto Metropolitan  & York University. March 15 2020.
-
 Panel chair, *Future Communications* Graduate Conference, York
 University. December 13 2019.
 
