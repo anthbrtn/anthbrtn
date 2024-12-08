@@ -2,12 +2,12 @@
 
 /* who cares */
 
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
 
 body {
   color: black;
   background-color: white;
-  font-family: arial, helvetica, sans-serif;
+  font-family: Shippori Mincho, helvetica, sans-serif;
   font-size: 18px;  /* Enables font size scaling in MSIE */
   margin-left: auto;
   margin-right: auto;
@@ -325,7 +325,9 @@ ul.sitemap-list a {
 </style>
 
 # Anthony Glyn Burton
-Anthony is a Mellon-SFU Fellow at the Digital Democracies Institute, and is writing his dissertation on the relationship between contemporary "theory", computation, and contemporary right-wing politics. 
+I'm a Mellon-SFU Fellow at the Digital Democracies Institute, and is writing his dissertation on the relationship between “theory”, intelligence, desire, and mimesis in contemporary far-right politics.
+
+My most recent work is Algorithmic Authenticity, which investigates the role that authenticity plays in contemporary information disorders. Fact-checking's effectiveness is one of the fictions at the core of liberal democracy. Trump's entire sideshow shtick notwithstanding, the idea usually ran that journalists just got the facts right when politicians occasionally lied. That's not true, and the emergence of populist forms of threat with tenuous relationships to the truth isn't historical news either. In response to this moment, we looked at the concept of algorithmic authenticity as a vector for these questions surrounding truth, fact, and digital subjecthood. You can find a copy, open access, on the meson press website.
 
 ## More about Anthony
 -   [curriculum vitae](cv.html)
