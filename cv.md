@@ -398,7 +398,7 @@ Victoria College in the University of Toronto. 2017
 
 ### Refereed Publications
 
-Burton, Anthony Glyn. 2024. “Platform authentication: When is social
+Burton, Anthony Glyn. “'Considered harmful': cat-v, UNIX, and digital libertarianism". Theory, Culture and Society (under review).
 
 Burton, Anthony Glyn and Esther Weltevrede. 2024. “Platform authentication: When is social
 media?” International Journal of Communication (forthcoming 2024).
